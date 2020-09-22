@@ -1,0 +1,118 @@
+ManifestFileVersion: 0
+CRC: 1077529258
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a2f3d032cf0424834912118eddf65f5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 663519a7c6fffef389d0aa85469903f3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e03efe10c3944dd47aab597d65b9ae1a, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1bae4ec7e38207849ad9146304fde7fd, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/anima/bg_dice_white_011.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/bg_dice_white_down_5.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisAngry/ChatData.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisCrying/LuisCrying.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/TextChats/TextChat 9.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_Angry/ChatData.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/bg_dice_white_down_3.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_laughing/ChatData.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/anima/bg_dice_white_015.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/TextChats/TextChat 5.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisWow/LuisWow.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/TextChats/TextChat 10.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/TextChats/TextChat 2.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/DiceFire.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BigDice/DiceBig.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/anima/bg_dice_white_005.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/bg_dice_white_down_2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/bg_dice_white_down_4.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/TextChats/TextChat 4.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisLaughing/LuisLaughing.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_facepalm/ChatData.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/bg_dice_white_up_2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_waiting/ChatData.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/anima/bg_dice_white_016.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/anima/bg_dice_white_014.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/GoldDice/DiceGold.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisWaiting/LuisWaiting.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/bg_dice_white_down_1.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/TextChats/TextChat 8.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/anima/bg_dice_white_019.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/anima/bg_dice_white_010.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/RoleDiceAnimationWhite.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/TextChats/TextChat.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/bg_dice_white_up_6.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SmallDice/DiceSmall.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/RedDice/DiceRed.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/bg_dice_white_up_5.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/TextChats/TextChat 11.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_crying/ChatData.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisFacePalm/LuisFacePalm.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/bg_dice_white_down_6.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisThinking/LuisThinking.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/MarbleDice/DiceMarble.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/bg_dice_white_up_4.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/bg_dice_white_up_3.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/anima/bg_dice_white_009.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_thinking/ChatData.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/bg_dice_white_up_1.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/anima/bg_dice_white_012.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/DiceIce.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/anima/bg_dice_white_017.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BlackDice/DiceBlack.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/DiceWhite.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/TextChats/TextChat 6.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_GoodLuck/ChatData.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_wow/ChatData.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/TextChats/TextChat 1.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SilverDice/DiceSilver.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/DiceWhite.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisLike/LuisLike.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/DiceElectricity.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/TextChats/TextChat 3.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/DiceAnimatorWhite.controller
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/anima/bg_dice_white_013.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/anima/bg_dice_white_018.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/TextChats/TextChat 7.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FurDice/DiceFur.asset
+Dependencies: []

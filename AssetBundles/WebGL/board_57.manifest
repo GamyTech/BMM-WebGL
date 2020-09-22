@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3659512283
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 02fc44ee94c86d62956877c795c79cfe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 09f9977fc2d4783dda230cec1e0e31fa
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 83a2d472a7bc5f74683fad4d2bf8dbb9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Menu/MenuAssets/Store/Boards/BlackMarble_57/bg_board_v4/bg_i6_v4_board_mask_down.png
+- Assets/Menu/MenuAssets/Store/Boards/BlackMarble_57/bg_board_v4/bg_board_v4_base.png
+- Assets/Menu/MenuAssets/Store/Boards/BlackMarble_57/bg_board_v4/bg_i6_v4_chip_black_game.png
+- Assets/Menu/MenuAssets/Store/Boards/BlackMarble_57/bg_board_v4/bg_i6_v4_chip_black_side.png
+- Assets/Menu/MenuAssets/Store/Boards/BlackMarble_57/bg_board_v4/bg_i6_v4_chip_white_game.png
+- Assets/Menu/MenuAssets/Store/Boards/BlackMarble_57/bg_board_v4/bg_i6_v4_chip_white_side.png
+- Assets/Menu/MenuAssets/Store/Boards/BlackMarble_57/bg_board_v4/bg_i6_board_v4_mask_mid.png
+- Assets/Menu/MenuAssets/Store/Boards/BlackMarble_57/BoardData_57.asset
+Dependencies: []

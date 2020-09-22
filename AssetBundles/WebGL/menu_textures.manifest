@@ -1,0 +1,221 @@
+ManifestFileVersion: 0
+CRC: 1029372002
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be4d5b61ac8d03efc78cb3b90b12a48a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6724eb4c0842e3529c2bc1a5d193251f
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Menu/MenuAssets/Textures/Tournament/main_i6_games_playmoney_pic.jpg
+- Assets/Menu/MenuAssets/Textures/inapp/main_i6_inapp_01.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_009.png
+- Assets/Menu/MenuAssets/Textures/Tournament/main_i6_games_rank_03.png
+- Assets/Menu/MenuAssets/Textures/cashin/main_i6_cashin_gift_01.png
+- Assets/Menu/MenuAssets/Textures/cashin/DepositBonusYellow.png
+- Assets/Menu/MenuAssets/Textures/LoyaltyStore/main_lt_x2.png
+- Assets/Menu/MenuAssets/Textures/Loading/Lion/bg_ro_loading_009.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_058.png
+- Assets/Menu/MenuAssets/Textures/searching/main_i6_searching_opponent_found.jpg
+- Assets/Menu/MenuAssets/Textures/home/main_tutorial_triangle.png
+- Assets/Menu/MenuAssets/Textures/Loading/Lion/bg_ro_loading_006.png
+- Assets/Menu/MenuAssets/Textures/inapp/main_i6_inapp_02.png
+- Assets/Menu/MenuAssets/Textures/shapes/main_i6_profile_progress_bar.png
+- Assets/Menu/MenuAssets/Textures/Loading/Lion/bg_ro_loading_004.png
+- Assets/Menu/MenuAssets/Textures/cashout/main_i6_cashout_id_sample_license.jpg
+- Assets/Menu/MenuAssets/Textures/searching/main_i6_searching.jpg
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_005.png
+- Assets/Menu/MenuAssets/Textures/Loading/Lion/bg_ro_loading_008.png
+- Assets/Menu/MenuAssets/Textures/9 Slices/main_circle_mask_32px.png
+- Assets/Menu/MenuAssets/Textures/Tournament/main_i6_games_tournament_pic.jpg
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_043.png
+- Assets/Menu/MenuAssets/Textures/cashin/main_i6_cashin_icon_paypal.png
+- Assets/Menu/MenuAssets/Textures/home/pc_home_dice_logo_09.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_019.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_036.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_054.png
+- Assets/Menu/MenuAssets/Textures/profile/main_i6_profile_trophy_earned_silver.png
+- Assets/Menu/MenuAssets/Textures/popover/main_i6_popover_identity_02.jpg
+- Assets/Menu/MenuAssets/Textures/Loading/RedDices/main_logo_loading_12.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_010.png
+- Assets/Menu/MenuAssets/Textures/popover/main_i6_popover_dailybonus_04.jpg
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_040.png
+- Assets/Menu/MenuAssets/Textures/Loading/Lion/bg_ro_loading_002.png
+- Assets/Menu/MenuAssets/Textures/home/pc_home_dice_logo_08.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_039.png
+- Assets/Menu/MenuAssets/Textures/Loading/RedDices/main_logo_loading_10.png
+- Assets/Menu/MenuAssets/Textures/cashin/Particles.mat
+- Assets/Menu/MenuAssets/Textures/main_iphone6_L_friends_comingsoon.png
+- Assets/Menu/MenuAssets/Textures/Loading/Lion/bg_ro_loading_011.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_015.png
+- Assets/Menu/MenuAssets/Textures/affiliate/main_i6_affiliate_invite_pic.jpg
+- Assets/Menu/MenuAssets/Textures/home/pc_home_dice_logo_10.png
+- Assets/Menu/MenuAssets/Textures/9 Slices/main_square_mask_5px.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_022.png
+- Assets/Menu/MenuAssets/Textures/Loading/Lion/bg_ro_loading_007.png
+- Assets/Menu/MenuAssets/Textures/Loading/Lion/bg_ro_loading_001.png
+- Assets/Menu/MenuAssets/Textures/popover/main_i6_popover_maintenance.jpg
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_041.png
+- Assets/Menu/MenuAssets/Textures/popover/main_i6_popover_dailybonus_01.jpg
+- Assets/Menu/MenuAssets/Textures/popover/main_i6_popover_gift.jpg
+- Assets/Menu/MenuAssets/Textures/9 Slices/main_square_mask_10px.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_029.png
+- Assets/Menu/MenuAssets/Textures/shapes/main_circle_stroke_512px.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_006.png
+- Assets/Menu/MenuAssets/Textures/PCGirl/main_pc_girl.png
+- Assets/Menu/MenuAssets/Textures/cashin/main_i6_cashin_deposit_received.jpg
+- Assets/Menu/MenuAssets/Textures/profile/main_i6_profile_trophy_earned_gold.png
+- Assets/Menu/MenuAssets/Textures/navigation/main_i6_navigation_edit_profile.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_034.png
+- Assets/Menu/MenuAssets/Textures/cashin/main_i6_cashin_gift_00.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_038.png
+- Assets/Menu/MenuAssets/Textures/achievements/main_i6_achievements_gift_00.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_017.png
+- Assets/Menu/MenuAssets/Textures/Loading/RedDices/main_logo_loading_09.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_044.png
+- Assets/Menu/MenuAssets/Textures/home/pc_home_dice_logo_04.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_047.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_013.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_002.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_037.png
+- Assets/Menu/MenuAssets/Textures/PaypalConnecting/main_pc_cashin_paypal_loading.png
+- Assets/Menu/MenuAssets/Textures/profile/main_i6_profile_ribbon_yellow.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_012.png
+- Assets/Menu/MenuAssets/Textures/popover/main_i6_popover_dailybonus_05.jpg
+- Assets/Menu/MenuAssets/Textures/cashin/ethereum.png
+- Assets/Menu/MenuAssets/Textures/popover/main_i6_popover_banned.jpg
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_045.png
+- Assets/Menu/MenuAssets/Textures/Loading/Lion/bg_ro_loading_005.png
+- Assets/Menu/MenuAssets/Textures/Loading/RedDices/main_logo_loading_00.png
+- Assets/Menu/MenuAssets/Textures/9 Slices/main_square_mask_26px 1.png
+- Assets/Menu/MenuAssets/Textures/affiliate/main_i6_affiliate_sms_pic.jpg
+- Assets/Menu/MenuAssets/Textures/Tournament/main_i6_games_rank_01.png
+- Assets/Menu/MenuAssets/Textures/store/main_pc_store_button_off.jpg
+- Assets/Menu/MenuAssets/Textures/Loading/RedDices/main_logo_loading_04.png
+- Assets/Menu/MenuAssets/Textures/popover/main_i6_popover_dailybonus_02.jpg
+- Assets/Menu/MenuAssets/Textures/9 Slices/main_square_mask_6px.png
+- Assets/Menu/MenuAssets/Textures/cashin/DepositBonusRed.png
+- Assets/Menu/MenuAssets/Textures/Loading/Lion/bg_ro_loading_015.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_048.png
+- Assets/Menu/MenuAssets/Textures/Loading/RedDices/main_logo_loading_11.png
+- Assets/Menu/MenuAssets/Textures/Loading/RedDices/main_logo_loading_05.png
+- Assets/Menu/MenuAssets/Textures/profile/main_i6_profile_achievement_earned.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_049.png
+- Assets/Menu/MenuAssets/Textures/Loading/RedDices/main_logo_loading_15.png
+- Assets/Menu/MenuAssets/Textures/profile/main_i6_profile_trophy_earned_bronze.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_025.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_051.png
+- Assets/Menu/MenuAssets/Textures/cashin/main_i6_register_kickit.jpg
+- Assets/Menu/MenuAssets/Textures/Loading/RedDices/main_logo_loading_13.png
+- Assets/Menu/MenuAssets/Textures/inapp/main_i6_inapp_06.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_035.png
+- Assets/Menu/MenuAssets/Textures/9 Slices/main_square_mask_2px.png
+- Assets/Menu/MenuAssets/Textures/popover/main_i6_popover_identity_01.jpg
+- Assets/Menu/MenuAssets/Textures/9 Slices/main_circle_mask_128px.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_020.png
+- Assets/Menu/MenuAssets/Textures/cashin/main_i6_cashin_safe.png
+- Assets/Menu/MenuAssets/Textures/home/pc_home_dice_logo_05.png
+- Assets/Menu/MenuAssets/Textures/cashin/main_i6_cashin_icon_neteller.png
+- Assets/Menu/MenuAssets/Textures/home/pc_home_dice_logo_03.png
+- Assets/Menu/MenuAssets/Textures/navigation/main_i6_navigation_shadow.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_031.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_011.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_008.png
+- Assets/Menu/MenuAssets/Textures/Loading/RedDices/main_logo_loading_06.png
+- Assets/Menu/MenuAssets/Textures/achievements/main_i6_achievements_gift_01.png
+- Assets/Menu/MenuAssets/Textures/Tournament/main_i6_games_rank_02.png
+- Assets/Menu/MenuAssets/Textures/shapes/main_circle_mask_32px.png
+- Assets/Menu/MenuAssets/Textures/inapp/main_i6_inapp_05.png
+- Assets/Menu/MenuAssets/Textures/cashin/main_i6_cashin_secure.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_046.png
+- Assets/Menu/MenuAssets/Textures/inapp/main_i6_inapp_03.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_018.png
+- Assets/Menu/MenuAssets/Textures/home/pc_home_dice_logo_07.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_055.png
+- Assets/Menu/MenuAssets/Textures/History/LostCoin.png
+- Assets/Menu/MenuAssets/Textures/History/PendingCoin.png
+- Assets/Menu/MenuAssets/Textures/shapes/main_square_mask_26px.png
+- Assets/Menu/MenuAssets/Textures/popover/main_i6_popover_dailybonus_03.jpg
+- Assets/Menu/MenuAssets/Textures/popover/main_i6_popover_rate.jpg
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_056.png
+- Assets/Menu/MenuAssets/Textures/LoyaltyStore/main_lt_x1.png
+- Assets/Menu/MenuAssets/Textures/profile/main_i6_profile_star.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_001.png
+- Assets/Menu/MenuAssets/Textures/Loading/RedDices/main_logo_loading_03.png
+- Assets/Menu/MenuAssets/Textures/shapes/main_circle_mask_128px.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_028.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_023.png
+- Assets/Menu/MenuAssets/Textures/home/pc_home_dice_logo_01.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_003.png
+- Assets/Menu/MenuAssets/Textures/Loading/Lion/bg_ro_loading_003.png
+- Assets/Menu/MenuAssets/Textures/cashout/main_i6_cashout_id_phone.png
+- Assets/Menu/MenuAssets/Textures/cashin/main_i6_cashin_icon_ssl.png
+- Assets/Menu/MenuAssets/Textures/LoyaltyStore/main_lt_x3.png
+- Assets/Menu/MenuAssets/Textures/cashout/main_i6_cashout_id_side.png
+- Assets/Menu/MenuAssets/Textures/9 Slices/main_circle_mask_64px.png
+- Assets/Menu/MenuAssets/Textures/store/main_pc_store_button_button.jpg
+- Assets/Menu/MenuAssets/Textures/profile/avatars_male_default.png
+- Assets/Menu/MenuAssets/Textures/History/WonCoin.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_024.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_053.png
+- Assets/Menu/MenuAssets/Textures/Loading/RedDices/main_logo_loading_07.png
+- Assets/Menu/MenuAssets/Textures/Loading/Lion/bg_ro_loading_012.png
+- Assets/Menu/MenuAssets/Textures/Tournament/main_i6_games_realmoney_pic.jpg
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_007.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_026.png
+- Assets/Menu/MenuAssets/Textures/Tournament/main_i6_shoutout_triangle.png
+- Assets/Menu/MenuAssets/Textures/Loading/RedDices/main_logo_loading_01.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_057.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_050.png
+- Assets/Menu/MenuAssets/Textures/homeheader/main_pc_topbar_cashin_botton.png
+- Assets/Menu/MenuAssets/Textures/home/pc_home_dice_logo_06.png
+- Assets/Menu/MenuAssets/Textures/LoyaltyStore/main_arrow.png
+- Assets/Menu/MenuAssets/Textures/PaypalConnecting/main_pc_cashin_paypal_logo.png
+- Assets/Menu/MenuAssets/Textures/shapes/main_circle_mask_512px.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_016.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_014.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_004.png
+- Assets/Menu/MenuAssets/Textures/Loading/Lion/bg_ro_loading_000.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_000.png
+- Assets/Menu/MenuAssets/Textures/Loading/RedDices/main_logo_loading_02.png
+- Assets/Menu/MenuAssets/Textures/cashin/main_i6_cashin_paypal.png
+- Assets/Menu/MenuAssets/Textures/Loading/RedDices/main_logo_loading_14.png
+- Assets/Menu/MenuAssets/Textures/cashin/main_i6_cashin_bonus_pic.jpg
+- Assets/Menu/MenuAssets/Textures/cashin/main_i6_register_kickit.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_021.png
+- Assets/Menu/MenuAssets/Textures/inapp/main_i6_inapp_04.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_027.png
+- Assets/Menu/MenuAssets/Textures/popover/main_i6_popover_update.jpg
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_030.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_042.png
+- Assets/Menu/MenuAssets/Textures/home/main_tutorial_arrow.png
+- Assets/Menu/MenuAssets/Textures/Tournament/main_i6_games_realmoney_tournament_pic.jpg
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_032.png
+- Assets/Menu/MenuAssets/Textures/Loading/Lion/bg_ro_loading_013.png
+- Assets/Menu/MenuAssets/Textures/9 Slices/main_stroke_10px.png
+- Assets/Menu/MenuAssets/Textures/popover/popover_bg_Deposit Received_android.jpg
+- Assets/Menu/MenuAssets/Textures/PCGirl/main_pc_girl_bubble.png
+- Assets/Menu/MenuAssets/Textures/Tournament/main_i6_games_realmoney_league_pic.jpg
+- Assets/Menu/MenuAssets/Textures/home/pc_home_dice_logo_02.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_052.png
+- Assets/Menu/MenuAssets/Textures/cashin/main_i6_cashin_coin.png
+- Assets/Menu/MenuAssets/Textures/Loading/RedDices/main_logo_loading_08.png
+- Assets/Menu/MenuAssets/Textures/9 Slices/main_square_mask.png
+- Assets/Menu/MenuAssets/Textures/9 Slices/main_square_mask_8px.png
+- Assets/Menu/MenuAssets/Textures/Loading/Lion/bg_ro_loading_014.png
+- Assets/Menu/MenuAssets/Textures/9 Slices/main_square_mask_3px.png
+- Assets/Menu/MenuAssets/Textures/9 Slices/main_square_mask_26px.png
+- Assets/Menu/MenuAssets/Textures/Loading/Die/bg_mo_loading_033.png
+- Assets/Menu/MenuAssets/Textures/Loading/Lion/bg_ro_loading_010.png
+Dependencies: []

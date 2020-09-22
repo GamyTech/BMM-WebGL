@@ -1,0 +1,208 @@
+ManifestFileVersion: 0
+CRC: 3086444603
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d0dbf782ac3b3f6b885da1af8beea304
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5fe18b6a096f7aaa7030c0465e7a50b9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ced84270bbb747f40bcce3dbed1270ba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 64a89cc0bb6efac4188ae4811e4b367e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6a260401992cb4741a2dfd9c3b1b3651, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f7838d51c1f4f034196de79d405c62d9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54fd997172ec89840bb15f7a1af8691b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 633b82b1041e7164bb2013addb4aa496, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -98529514, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -113659843, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1184210157, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4a15c062bf2119b4e8494d9fc57a2ca8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c9ffd1a2c05f42c499dd43af5f410342, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5194ee13b92f0b640a2f0eae49ed451e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e6fae63c8a766243945d23b8e9b5dd5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 03518ec356ce093409d1ec3c5fb991ce, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc86f574255fecd45b3013db1cb68434, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 391e4b650741b4d4dbc69a1ff44dc6da, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c146bf5c64fbed48b805e2ca4707306, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cc7c1b86d9c8e5c4b8e4cba5dd297b5e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 443569e77b60c004fa2880e6d03003c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c27ba486e98d6a4d94161d8301ce70e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 344445a89b4f74a0e9a0a766903df87e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: befb6819eaeb6c64d8bc3e4211828942, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f99dd41a534104e4c9327b9cda0758a3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef47612a35780cc45b33151bb47f060e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a707996a03afec4469aa8859e80d63aa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0aac7f8ad129f9643bbf5576f11bdaf8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1ae2eeba5f02ded40bf52f31ed9c9dc3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d9fdd0dad2676a54e882d502b6199a5f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b81614fafaf463d48822abaa9a4ca089, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6156c97bdadcb7f42a712b5a75ddedc3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4d430dbe8c5c8c43ba70a371bb015d7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e7dd0afbf5df0234591a38cbf78b22d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b552390cffb7d3146a627beeeef0ee3a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 611c492cd290adf47bc771eb827bf7b9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 02d81f3cbecb9c245a5ddd1d12bca484, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 558d966cc7a4dcf4c9730375759c98db, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 066d11ecf0c303c4ea20aeed4a86b156, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 012f888d3c828a641a500f3a7e6ab40a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 44159e5e718b5ad4f881eac3937a479d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 861892cee25fd464b8964e4041f8b245, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e199b7deed9a99a41b17cfb766641a85, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5b151b0ff45c6474d8ac8c73b29d3b13, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 05885c8f0b73fe9448c3bf4dd99693d8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cc0260facaa05be4b942e1d9b9cae439, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+Assets:
+- Assets/Menu/Prefabs/Profile/Profile_Prefab.prefab
+- Assets/Menu/Prefabs/Store/SubStoreTab.prefab
+- Assets/Menu/Prefabs/Games/PCRoomView_Prefab.prefab
+- Assets/Menu/Prefabs/Store/PCStoreTab.prefab
+- Assets/Menu/Prefabs/Popup/Popup_Button.prefab
+- Assets/Menu/Prefabs/Home/SingleHomeRoomView_Prefab.prefab
+- Assets/Menu/Prefabs/Popup/Popup_Text.prefab
+- Assets/Menu/Prefabs/Store/Items/ShoutOutItem_Prefab.prefab
+- Assets/Menu/Prefabs/Popup/SmallPopup_Button.prefab
+- Assets/Menu/Prefabs/Popup/SmallPopup_Text.prefab
+- Assets/Menu/Prefabs/Friends/ChallengeFriend_Prefab.prefab
+- Assets/Menu/Prefabs/GeneralUI/SlideToggle.prefab
+- Assets/Menu/Prefabs/Home/Indicator_Prefab.prefab
+- Assets/Menu/Prefabs/CashIn/DepositItemView_Prefab.prefab
+- Assets/Menu/Prefabs/CashIn/CreditCardView.prefab
+- Assets/Menu/Prefabs/Loading/LoadingBar_ForMoney.prefab
+- Assets/Menu/Prefabs/Loading/SmallLoading/PuzzleLoading.prefab
+- Assets/Menu/Prefabs/Friends/InviteFriend_Prefab.prefab
+- Assets/Menu/Prefabs/Store/Items/ChatWordsItem_Prefab.prefab
+- Assets/Menu/Prefabs/Loading/LoadingBar.prefab
+- Assets/Menu/Prefabs/Settings/LanguageToggle.prefab
+- Assets/Menu/Prefabs/Popup/Popup_Image.prefab
+- Assets/Menu/Prefabs/Games/VirtualRoomCategoryView_Prefab.prefab
+- Assets/Menu/Prefabs/Loading/SmallLoading/SmallLoading.prefab
+- Assets/Menu/Prefabs/PageLoading/PageLoading_Prefab.prefab
+- Assets/Menu/Prefabs/Store/Items/GeneralStoreItem_Prefab.prefab
+- Assets/Menu/Prefabs/MatchHistory/MatchView_Prefab.prefab
+- Assets/Menu/Prefabs/Store/PCSubStoreTab.prefab
+- Assets/Menu/Prefabs/Store/StoreTab.prefab
+- Assets/Menu/Prefabs/Settings/SettingElementButtonPrefab.prefab
+- Assets/Menu/Prefabs/Settings/SettingElementTogglePrefab.prefab
+- Assets/Menu/Prefabs/Store/ChatWordBar_Prefab.prefab
+- Assets/Menu/Prefabs/Home/HomeRoomCategoryView_Prefab.prefab
+- Assets/Menu/Prefabs/Store/Items/LoyaltyStoreItem_Prefab.prefab
+- Assets/Menu/Prefabs/Store/Items/LuckyItemItem_Prefab.prefab
+- Assets/Menu/Prefabs/Games/CashRoomCategoryView_Prefab.prefab
+- Assets/Menu/Prefabs/Notifications/NotificationView.prefab
+- Assets/Menu/Prefabs/Popup/Tutorial_Text.prefab
+- Assets/Menu/Prefabs/Home/MultiHomeRoomView_Prefab.prefab
+- Assets/Menu/Prefabs/InAppPurchase/InAppItem_Prefab.prefab
+- Assets/Menu/Prefabs/Store/Items/IAPItem_Prefab.prefab
+- Assets/Menu/Prefabs/Home/CustomRoomCategoryView_Prefab.prefab
+- Assets/Menu/Prefabs/Games/RoomView_Prefab.prefab
+- Assets/Menu/Prefabs/Settings/ResolutionToggle.prefab
+- Assets/Menu/Prefabs/Navigation/NavigationPanel.prefab
+- Assets/Menu/Prefabs/AmountSlider/SliderPanel.prefab
+Dependencies:
+- E:/project/Backagammon3/AssetBundles/WebGL/menu_textures

@@ -1,0 +1,426 @@
+ManifestFileVersion: 0
+CRC: 3952598319
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3ced3dda7c8e3c25641afc2c69687378
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b3d9e3f7a79f4916f2c7e779e0b06776
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b120de00650f47344b36ada5ef756fdf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 299cd160e6713234fb29179c9d526209, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9dde73602c311ee4ba3d74ac5b4c21e1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8f7ef9a090124a94fbca6eea3f117725, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 82cd01b072ca746459b882d2b03d9c6f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0a049ac0c4301d74bb4426c4f9ef2d24, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68fe153181da4da49a634f817aaa950d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9d321631448077943829683017ebb77f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3d1ab84177943544e9278eb904d197dd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f7838d51c1f4f034196de79d405c62d9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe56ae51da747eb4989cde7f307fbd98, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5358f471a59e45449a3eca09c72cacc0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54fd997172ec89840bb15f7a1af8691b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 633b82b1041e7164bb2013addb4aa496, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 142099c1001f9844cabcc969f7530c8f, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 853051423, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1862395651, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 575553740, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -98529514, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2061169968, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -113659843, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 471e2cf1ff2f9544aa49c97835ad51c7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 17d8d6029d96bbc46be267dc03bb46c6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e8bb2312a63212044950a1ff571987c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f097c22206f568046bec0706f7677b01, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 903306225765a094486d59566b6ceb96, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 214f5c321eea18f49b72d4711bfd9d23, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cba1de32ca405974c860fdbf8ee0ab11, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2d13d652b2b24b74f9ee6efae87fac2f, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1862395651, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 575553740, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -98529514, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -113659843, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1184210157, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 557aa26207a6aa245b33cbb3ffa0d388, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 01d7537221a7b2f4e97342eea6186f45, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a12161a2d6abb87489d7c58215a6425b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c9ffd1a2c05f42c499dd43af5f410342, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 827a2bd2c2544c540b0d780f1247b689, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2b1c62e270814fe4b95168e6dd0148ee, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6b6254f204f0a5a4d883b84c8617da46, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ed1a9f2089cf4b40a5fe6b2396803f2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b3e9a813402d2ce4698036755ccc6a70, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c257de13841a7c64083215db010cabcd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2c7b4b638fd034a4f9779b938ea0e8f4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 03518ec356ce093409d1ec3c5fb991ce, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fbd09fe3ff8a0ef46be357d68817b274, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf52e1347223b464693a0535a0ff9d57, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7b8aec3462aa8e24daa3aa843085fb8e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a8c45c44e4a783247ad666e2d31cbc67, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc86f574255fecd45b3013db1cb68434, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e374f84925c52e4db878dc46218c44d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 27ccbb94809c1e0448cfb68d763a7bcd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1a4c3a4dbc576d44ac037fccbb6b07d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1c8eccb40050ea048bbd091903a192f9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 041aa60564fb011498fa7e39fd67c3b8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e0712b058117fc84187bb7b29f0960e5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 391e4b650741b4d4dbc69a1ff44dc6da, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 111c90c5ccddd3c4cada76e668db037f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9e8a8ad5244bf8c47bbdd68e20414650, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 717e4106f1f637446a792d1c28ad2d51, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d9dcf1464a564994dbf1aa738468d96d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: efe07346138128e43b25152ea24548e4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 65fd42665e3df63499e3ed6272b3af4c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cc7c1b86d9c8e5c4b8e4cba5dd297b5e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 62eacae68c0570d498cf3a9495c17135, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1b646f69bbf0dd4798748edda46ddb4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4a80aef6acc385d4a9d43e200ab469f3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 22dfe96723d5dc84483557ff8059447c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e2e2c287abcbe79469d8250e3dbc6d07, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9599c0b77b9fc5f4384c74c3870139fc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ad06f08816eeaf74292412b383958041, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 344445a89b4f74a0e9a0a766903df87e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8cb808a83e160fd4d93052996565e3f0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: da0dcda82c8afab4d8e0ab058692eb8d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5d5f75c8e5fc13346a3cd3d985dc242b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 05905bd8e4a1e8243b3c01c3ce14f4e6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b76d80914ad1bb49834d5b58a341705, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 06d00c09538d9b648bbd8b6a84a1e912, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 02682f096b38d3646ab00dc0df51a617, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a12644a9b21e1e24699520c0f9358a4e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dbd8c7b9afa3dff43bb5f2d9d24e5218, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4c5879e9bc8ccf143aaa6978945a2596, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 520f961a81e04f4428b65a633dce2df6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: db67eb1ac81914d4abd50e5047487bf3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef47612a35780cc45b33151bb47f060e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 017d0d5a8e8d62c4e945aa8bb68f81e6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 164c629af6d59ed43ba965c8e7ffbcf3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ffc8c29adfabf45418cbf4412523abf0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 531e04bab87f30e40b3c59d4343469a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 21f003ca38f65894fb80802439318132, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 511a06fa6398cdd428e3a39aeb27bd0b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eb369bfaddc6a61428774a52cbd2f759, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d75da90bb850a234c8746857003f1eac, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 439b325b82e28c344ae93f1022b6ddc9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4156da9b28a3f4d45957f459f205b8cf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f0e3d1bb8c17f4349902af8171ac18b5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e7dd0afbf5df0234591a38cbf78b22d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8705bc4cd51def240bc4dfe0735e2f66, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 81522f8c2b4e464408eeb491f671a614, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 066d11ecf0c303c4ea20aeed4a86b156, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9c4766eca3d6eb44387ea515369bdc9d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 819c100de2b06874fb1279f8abf3584c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eef5990d5d9eaaf4da1640467679b858, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd8f2f0d5bc7610449f96ce659f89ebe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3eb9941d8796a1142b1c63582db77c70, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 43a9252de2aae374c8ee0a770e9fe69a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: af82fd3df612ae94fb91310c73372a57, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 52bb2b5d19d7c3441b6ff7996e207567, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f2f67c5deb0fd1a469ed02098555f6c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa44297d6d3a7b345b537a796a853c16, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6619e97d268f1114396e2b9d86807db8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 012f888d3c828a641a500f3a7e6ab40a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d4cf6cd35eae9e4da097d50b804c164, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d724fbed9fc30184ebeee39a23b1abd0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 05aa373e61f833646bf7452afefc7f93, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ed823cae1c9ed7a49a1baab46726c41a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cbf83bbe2527b24468b6052d839e78ed, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b70e34ce3d03c3242881f8abf8f06270, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1e9a5dce76326e143ba79aff493a73d1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e199b7deed9a99a41b17cfb766641a85, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a47fbeed8aaf1e4e910d6da65e3fd75, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 10c9989f2f0280544857643bf219e5da, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 031292afd21bc884b829e7a8892b79fe, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+Assets:
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/Demo/DemoWithdraw_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/Logout_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/Settings/MenuSettings_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/Friends/ChallengePopup_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/Settings/Settings_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/BottomWidgets/CashierBar_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/BottomWidgets/CreditCardBar_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/TopWidgets/PCStoreBar_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/ChangeProfile_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/CashIn/DepositInfo_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/Register_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/Friends/FriendsInvite_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/TopWidgets/TitleBar_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/Stores/LoyaltyStoreInfo_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/Stores/GeneralStore_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/Stores/ChatWords_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/ComingSoon_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/EarnMoreBonus_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/CashIn/PCDepositSuccess_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/BottomWidgets/FriendsBar_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/Support_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/TopWidgets/StoreBar_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/CashIn/AutoDeposit_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/TopWidgets/WalletBar_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/Friends/FacebookLogin_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/CashOut/VerifyUserInfo_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/TopWidgets/ChatWordsBar_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/History/MatchData_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/Friends/InviteYourFriends_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/Specials_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/Stores/ShoutOuts_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/Home/CustomBetPopup_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/BottomWidgets/Advertisement_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/Achievement_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/GameTitle_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/CashOut/CashOut_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/TopWidgets/ShoutOutsBar_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/TopWidgets/SubStoreBar_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/Home/RatePopup_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/History/FullHistory_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/History/PreviewHistory_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/CashIn/SecurityImages_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/Searching_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/TopWidgets/LuckyItemsBar_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/TopWidgets/TopEarnMoreBonus_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/LoyaltyPointsInfo_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/ForgotPassword_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/TopWidgets/HomeHeader.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/CashIn/Deposit_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/SignIn_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/ChangePassword_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/Demo/DemoWalletVerification_Prefa.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/UserVerification/IdentityProof_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/CashIn/PaypalConnecting.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/TopWidgets/PCChatWordsBar_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/Contact_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/CashIn/ReceiveCash_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/Settings/Resolution_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/Demo/DemoLogin_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/UserVerification/AddressProof_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/Profile_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/CashOut/UploadIdPicture_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/Settings/LegalInfo_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/Home/Play_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/Rank_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/Home/TitleWithTutorial_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/TopWidgets/PCSubStoreBar_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/CashIn/DepositSuccess_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/Friends/FriendsChallenge_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/CashIn/cashUpdating.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/BottomWidgets/QuickAccessBar_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/Demo/DemoDeposit_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/Home/PCPlay_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/Demo/DemoRegister_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/Settings/Languages_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/Information_Prefab.prefab
+- Assets/Menu/Prefabs/Widgets/Resources/Widgets_Prefabs/MiddleWidgets/Balance_Prefab.prefab
+Dependencies:
+- C:/Projects/Backgammon3/AssetBundles/iOS/menu_prefabs
+- C:/Projects/Backgammon3/AssetBundles/iOS/menu_textures

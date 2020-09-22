@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 574395086
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f43bdc01a97fae7eeaee0e10710cca8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6a8ddf056a9d85b62aa2e7fc30833939
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 83a2d472a7bc5f74683fad4d2bf8dbb9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Menu/MenuAssets/Store/Boards/ClassicB4M_52/bg_board_v1/bg_ipad_board_mask_down.png
+- Assets/Menu/MenuAssets/Store/Boards/ClassicB4M_52/bg_board_v1/bg_i6_movesToWin.png
+- Assets/Menu/MenuAssets/Store/Boards/ClassicB4M_52/bg_board_v1/bg_i6_v1_board_black_game.png
+- Assets/Menu/MenuAssets/Store/Boards/ClassicB4M_52/bg_board_v1/bg_i6_board_v1_mask_mid.png
+- Assets/Menu/MenuAssets/Store/Boards/ClassicB4M_52/bg_board_v1/bg_i6_v1_chip_white_side.png
+- Assets/Menu/MenuAssets/Store/Boards/ClassicB4M_52/bg_board_v1/bg_ipad_board_mask_mid.png
+- Assets/Menu/MenuAssets/Store/Boards/ClassicB4M_52/bg_board_v1/bg_i6_v1_chip_white_game.png
+- Assets/Menu/MenuAssets/Store/Boards/ClassicB4M_52/BoardData_52.asset
+- Assets/Menu/MenuAssets/Store/Boards/ClassicB4M_52/bg_board_v1/bg_i6_game_light_green.png
+- Assets/Menu/MenuAssets/Store/Boards/ClassicB4M_52/bg_board_v1/bg_i6_v1_chip_black_game.png
+- Assets/Menu/MenuAssets/Store/Boards/ClassicB4M_52/bg_board_v1/bg_i6_v1_board_mask_down.png
+- Assets/Menu/MenuAssets/Store/Boards/ClassicB4M_52/bg_board_v1/bg_i6_v1_chip_black_side.png
+Dependencies: []

@@ -1,0 +1,902 @@
+ManifestFileVersion: 0
+CRC: 2319057984
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e07712a023d8ae0dc8c8807b05c412b4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 43c9660eb98b3731ed50b80753aba28f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e03efe10c3944dd47aab597d65b9ae1a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 34117850e40c4fc4bbf93ea84a8c08b7, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a1978612db78d6e42b46d5650ed72595, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1bae4ec7e38207849ad9146304fde7fd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 84fd0539a35fd5e4f836d42120e1b6a3, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/Loop/bg_dice_fire_loop_16.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Maracas/Maracas.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee3.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/bg_dice_electricity_down_5.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/Loop/bg_dice_fire_loop_17.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_gamygirl/BlessingPrefab.controller
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_santa/blessings_santa.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisCrying/LuisAnimation4.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/Loop/bg_dice_fire_loop_03.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_31.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_santa/Animation.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BlackDice/bg_dice_black/bg_dice_black_down_4.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SmallDice/bg_dice_Small/anima/bg_dice_small_003.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/anima/bg_dice_electricity_017.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/Loop/bg_dice_fire_loop_10.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/anima/bg_dice_white_011.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_laughing/GamygirlLaughingAnimation.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BigDice/bg_dice_Big/anima/bg_dice_big_016.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/bg_dice_white_down_5.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BlackDice/bg_dice_black/bg_dice_black_down_5.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/anima/bg_dice_fire_015.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_02.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_cookie/blessings_cookie_background.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_santa/BlessingData.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_leprechaun/blessings_leprechaun.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisWow/LuisAnimation8.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_wow/GamygirlWowAnimation.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BlackDice/bg_dice_black/anima/bg_dice_black_011.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_gamygirl/blessings_gamygirl_eye2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/RedDice/bg_dice_red/bg_dice_v1_red_up_5.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/GoldDice/bg_dice_gold/anima/bg_dice_gold_006.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BlackDice/bg_dice_black/anima/bg_dice_black_003.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BigDice/bg_dice_Big/anima/bg_dice_big_011.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisLike/chat_like/bg_i6_chat_gb_like_hand.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/CoffeeCup/LuckyItemData 7.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/GamyGirl/gamygirl.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SmallDice/bg_dice_Small/bg_dice_small_down_4.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Stiletto/LuckyItemData 27.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/anima/bg_dice_white_003.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisAngry/ChatData.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_waiting/GamytechAnimation15.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BlackDice/bg_dice_black/anima/bg_dice_black_004.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisCrying/LuisCrying.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BigDice/bg_dice_Big/bg_dice_big_down_2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/TextChats/TextChat 9.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FurDice/bg_dice_Fur/bg_dice_fur_up_3.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SilverDice/bg_dice_silver/bg_dice_silver_up_3.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Stiletto/stiletto.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Beeds/mascots_beads_loop/mascots_beads_loop_13.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/bg_dice_fire_down_5.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/anima/bg_dice_electricity_011.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/bg_dice_fire_up_6.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Beeds/mascots_beads_loop/mascots_beads_loop_03.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/anima/bg_dice_electricity_019.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/BoxOfTissues/box_of_tissues.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BigDice/bg_dice_Big/bg_dice_big_down_4.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisThinking/chat_thinking/bg_i6_chat_gb_thinking_head.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SilverDice/RoleDiceAnimationSilver.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Pot/pot.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/bg_dice_Ice/bg_dice_ice_bg.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/anima/bg_dice_electricity_018.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/Loop/bg_dice_electricity_loop_04.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Skull/LuckyItemData 25.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_26.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SilverDice/bg_dice_silver/anima/bg_dice_silver_017.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Diamond/diamond.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_Angry/ChatData.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/MarbleDice/bg_dice_marble/anima/bg_dice_marble_005.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/bg_dice_fire_down_4.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SilverDice/DiceAnimatorSilver.controller
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/RedDice/bg_dice_red/bg_dice_v1_red_up_6.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SmallDice/bg_dice_Small/anima/bg_dice_small_019.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Star/LuckyItemData 26.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SmallDice/bg_dice_Small/anima/bg_dice_small_008.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/bg_dice_white_down_3.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/GoldenDices/LuckyItemData
+  15.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisFacePalm/chat_facepalm/bg_i6_chat_gb_facepalm_hand.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_laughing/ChatData.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/anima/bg_dice_fire_016.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_wow/chat_Gamygirl_wow/bg_i6_chat_gg_wow_girl.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/bg_dice_Ice/anima/bg_dice_ice_007.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/bg_dice_Ice/anima/bg_dice_ice_001.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_santa/BlessingPrefab.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/GamyGirl/LuckyItemData 14.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisLike/chat_like/bg_i6_chat_gb_like_light.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/GoldDice/bg_dice_gold/anima/bg_dice_gold_008.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/bg_dice_Ice/anima/bg_dice_ice_014.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/anima/bg_dice_white_015.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/TextChats/TextChat 5.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/HorseShoe/HorseShoe.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Horseshoe/LuckyItemData 29.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/MarbleDice/bg_dice_marble/bg_dice_marble_up_6.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_01.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/UnluckyDices/LuckyItemData
+  28.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/anima/bg_dice_fire_013.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_leprechaun/Animation.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_04.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/RedDice/bg_dice_red/anima/bg_dice_v1_red_009.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_waiting/chat_Gamygirl_waiting/bg_i6_chat_gg_waiting_hand.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/bg_dice_electricity_up_5.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/GoldDice/bg_dice_gold/bg_dice_gold_up_1.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_Angry/chat_Gamygirl_Angry/bg_i6_chat_gg_angry_bubble.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_10.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BigDice/bg_dice_Big/anima/bg_dice_big_015.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FurDice/DiceFur.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/bg_dice_Ice/anima/bg_dice_ice_016.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_budda/Animation.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SilverDice/bg_dice_silver/bg_dice_silver_up_1.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/bg_dice_Ice/anima/bg_dice_ice_013.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/bg_dice_Ice/anima/bg_dice_ice_012.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_cookie/blessings_cookie_whole.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/DiceLoopElectricity.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BigDice/bg_dice_Big/anima/bg_dice_big_012.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/Loop/bg_dice_electricity_loop_15.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/bg_dice_Ice/anima/bg_dice_ice_004.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Martini/martini.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BigDice/bg_dice_Big/anima/bg_dice_big_013.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/Loop/bg_dice_electricity_loop_10.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SilverDice/bg_dice_silver/anima/bg_dice_silver_000.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisThinking/LuisthinkingAnimation.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FurDice/bg_dice_Fur/bg_dice_fur_down_4.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/BlackCat/black_cat.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Dodge/LuckyItemData 13.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/MarbleDice/bg_dice_marble/bg_dice_marble_down_3.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BigDice/bg_dice_Big/anima/bg_dice_big_000.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_thinking/chat_Gamygirl_thinking/bg_i6_chat_gg_thinking_girl.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/bg_dice_Ice/bg_dice_ice_up_5.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FurDice/bg_dice_Fur/bg_dice_fur_up_2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisWow/LuisWow.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/Loop/bg_dice_electricity_loop_22.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisWow/chat_wow/bg_i6_chat_gb_wow_mouth.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SilverDice/bg_dice_silver/bg_dice_silver_down_2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/TextChats/TextChat 10.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/Loop/bg_dice_electricity_loop_05.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/TextChats/TextChat 2.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/DiceFire.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_38.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/GoldDice/bg_dice_gold/anima/bg_dice_gold_001.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/bg_dice_electricity_down_1.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/Loop/bg_dice_fire_loop_12.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BigDice/DiceBig.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/UnluckyHorseshoe/unlucky_horseshoe.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SilverDice/bg_dice_silver/anima/bg_dice_silver_007.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/anima/bg_dice_white_005.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Beeds/2.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BigDice/bg_dice_Big/bg_dice_big_up_4.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_leprechaun/BlessingData.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/bg_dice_Ice/anima/bg_dice_ice_005.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_gamygirl/blessings_gamygirl_eye1.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/MarbleDice/bg_dice_marble/bg_dice_marble_up_1.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Beeds/mascots_beads_loop/mascots_beads_loop_01.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Hookah/LuckyItemData 19.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/RoleDiceAnimationElectricity.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/GoldDice/bg_dice_gold/anima/bg_dice_gold_010.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Beeds/AnimatorController.controller
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BigDice/bg_dice_Big/anima/bg_dice_big_006.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_22.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisAngry/chat_angry/bg_i6_chat_gb_angry_body.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisAngry/chat_angry/bg_i6_chat_gb_angry_bubble.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_leprechaun/BlessingPrefab.controller
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisWaiting/chat_waiting/bg_i6_chat_gb_waiting_finger1.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Beeds/mascots_beads_loop/mascots_beads_loop_15.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_32.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/bg_dice_Ice/bg_dice_ice_down_3.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/bg_dice_white_down_2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/MarbleDice/bg_dice_marble/anima/bg_dice_marble_003.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/anima/bg_dice_white_004.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Beads/LuckyItemData.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_09.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SilverDice/bg_dice_silver/anima/bg_dice_silver_013.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_GoodLuck/chat_Gamygirl_GoodLuck/bg_i6_chat_gg_goodluck_mouth.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/GoldDice/bg_dice_gold/anima/bg_dice_gold_019.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisWow/LuisWowAnimation.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FurDice/bg_dice_Fur/bg_dice_fur_down_6.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/GoldDice/bg_dice_gold/bg_dice_gold_up_6.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_waiting/chat_Gamygirl_waiting/bg_i6_chat_gg_waiting_body.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_budda/BuddaBlessing.controller
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/RedDice/bg_dice_red/anima/bg_dice_v1_red_000.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_Angry/chat_Gamygirl_Angry/bg_i6_chat_gg_angry_head.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/bg_dice_Ice/bg_dice_ice_down_4.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/SilverDices/LuckyItemData
+  24.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_cookie/Animator.controller
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Hookah/hookah.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/anima/bg_dice_electricity_003.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Beer/LuckyItemData 1.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_laughing/chat_Gamygirl_laughing/bg_i6_chat_gg_laughing_mouth.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/MarbleDice/bg_dice_marble/anima/bg_dice_marble_001.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/bg_dice_white_down_4.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/RedDice/bg_dice_red/anima/bg_dice_v1_red_018.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FurDice/bg_dice_Fur/anima/bg_dice_fur_018.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/Loop/bg_dice_electricity_loop_17.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisLaughing/LuisLaughingAnimation.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SilverDice/bg_dice_silver/bg_dice_silver_up_6.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Clover/Clover.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/GoldenDices/golden_dices.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_27.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Hamsa/LuckyItemData 18.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/RedDice/bg_dice_red/anima/bg_dice_v1_red_011.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/bg_dice_Ice/anima/bg_dice_ice_019.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_Angry/chat_Gamygirl_Angry/bg_i6_chat_gg_angry_brow1.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_santa/blessings_santa_hand2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisLaughing/LuisAnimation2.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/InsanityWolf/insanity_wolf.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_crying/chat_Gamygirl_crying/bg_i6_chat_gb_crying_tear.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/GoldDice/bg_dice_gold/anima/bg_dice_gold_007.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_cookie/blessings_cookie_cramps.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/MarbleDice/bg_dice_marble/bg_dice_marble_down_6.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SilverDice/bg_dice_silver/bg_dice_silver_up_5.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_santa/blessings_santa_bags1.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/TextChats/TextChat 4.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FurDice/bg_dice_Fur/anima/bg_dice_fur_003.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_21.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FurDice/bg_dice_Fur/bg_dice_fur_down_2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/Loop/bg_dice_electricity_loop_18.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BigDice/bg_dice_Big/bg_dice_big_up_6.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/DiceIce.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_cookie/BlessingData.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/MarbleDice/bg_dice_marble/anima/bg_dice_marble_014.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/anima/bg_dice_fire_001.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/MarbleDice/bg_dice_marble/bg_dice_marble_up_4.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/bg_dice_electricity_up_4.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BigDice/bg_dice_Big/bg_dice_big_up_5.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee1.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/Loop/bg_dice_fire_loop_15.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisLaughing/LuisLaughing.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Beeds/mascots_beads_loop/mascots_beads_loop_05.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BigDice/bg_dice_Big/anima/bg_dice_big_002.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/bg_dice_Ice/anima/bg_dice_ice_009.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/Loop/bg_dice_electricity_loop_16.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BlackDice/bg_dice_black/anima/bg_dice_black_019.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/MascotData.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BlackDice/bg_dice_black/bg_dice_black_up_2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SilverDice/bg_dice_silver/anima/bg_dice_silver_006.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Beeds/Particles.mat
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Wine/LuckyItemData 30.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_facepalm/ChatData.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/bg_dice_white_up_2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/bg_dice_Ice/anima/bg_dice_ice_000.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SilverDice/bg_dice_silver/bg_dice_silver_up_2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_leprechaun/BlessingPrefab.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BlackDice/bg_dice_black/anima/bg_dice_black_014.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_waiting/ChatData.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BigDice/bg_dice_Big/bg_dice_big_down_1.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/Loop/bg_dice_electricity_loop_21.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/anima/bg_dice_white_007.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/HorseShoe/Animation.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_28.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/RoleDiceAnimationIce.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BigDice/bg_dice_Big/anima/bg_dice_big_018.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Beeds/1.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/anima/bg_dice_white_016.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FurDice/DiceAnimatorFur.controller
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/MarbleDice/bg_dice_marble/anima/bg_dice_marble_004.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Crown2/crown2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_Angry/chat_Gamygirl_Angry/bg_i6_chat_gb_angry_sign.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/GoldDice/bg_dice_gold/anima/bg_dice_gold_003.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/anima/bg_dice_white_014.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Beads/beads.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/bg_dice_Ice/anima/bg_dice_ice_015.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/RedDice/bg_dice_red/anima/bg_dice_v1_red_014.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_budda/blessings_budda.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SilverDice/bg_dice_silver/bg_dice_silver_down_1.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_budda/BuddaBlessing.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_GoodLuck/GamygirlGoodLuckAnimation.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/anima/bg_dice_electricity_015.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Beeds/mascots_beads_loop/mascots_beads_loop_14.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SilverDice/bg_dice_silver/anima/bg_dice_silver_010.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/RedDice/bg_dice_red/bg_dice_v1_red_down_2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/Loop/bg_dice_fire_loop_08.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisLaughing/chat_Laughing/bg_i6_chat_gb_laughing_hand.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_06.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/GoldDice/bg_dice_gold/anima/bg_dice_gold_014.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisWaiting/chat_waiting/bg_i6_chat_gb_waitnig_body.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Beeds/mascots_sparkle.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Beeds/mascots_beads_loop/mascots_beads_loop_04.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_gamygirl/BlessingPrefab.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/GoldDice/DiceGold.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_santa/blessings_santa_background.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_GoodLuck/chat_Gamygirl_GoodLuck/bg_i6_chat_gg_goodluck_head.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/GoldDice/bg_dice_gold/anima/bg_dice_gold_005.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/RedDice/bg_dice_red/anima/bg_dice_v1_red_015.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/Loop/bg_dice_electricity_loop_12.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/bg_dice_Ice/bg_dice_ice_up_6.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BigDice/RoleDiceAnimationBig.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SilverDice/bg_dice_silver/anima/bg_dice_silver_002.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BigDice/bg_dice_Big/anima/bg_dice_big_014.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/InsanityWolf/wolf.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Clover/mascots_clover/mascots_sparkle.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/anima/bg_dice_fire_010.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/MarbleDice/bg_dice_marble/anima/bg_dice_marble_013.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BlackDice/bg_dice_black/anima/bg_dice_black_000.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BlackDice/bg_dice_black/bg_dice_black_down_2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BigDice/bg_dice_Big/anima/bg_dice_big_005.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BlackDice/bg_dice_black/bg_dice_black_down_3.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/bg_dice_electricity_up_1.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/bg_dice_Ice/anima/bg_dice_ice_010.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Hamsa/MascotData.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_11.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisWaiting/LuisAnimation7.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_41.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Hamsa/mascots_hamsa/mascots_hamsa_mask2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/anima/bg_dice_electricity_008.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SmallDice/bg_dice_Small/anima/bg_dice_small_016.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/RedDice/RoleDiceAnimationRed.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FurDice/bg_dice_Fur/anima/bg_dice_fur_005.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/MarbleDice/DiceMarble.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SmallDice/bg_dice_Small/anima/bg_dice_small_002.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SmallDice/bg_dice_Small/bg_dice_small_up_6.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/HorseShoe/MascotData.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisWaiting/LuisWaiting.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_gamygirl/blessings_gamygirl.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/bg_dice_electricity_down_4.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/GoldDice/bg_dice_gold/anima/bg_dice_gold_017.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BlackDice/bg_dice_black/anima/bg_dice_black_007.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FurDice/bg_dice_Fur/bg_dice_fur_up_4.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisWow/chat_wow/bg_i6_chat_gb_wow_sparkle.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_42.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/GoldenDollar/LuckyItemData
+  16.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_GoodLuck/chat_Gamygirl_GoodLuck/bg_i6_chat_gg_goodluck_body.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Cat/cat.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FurDice/bg_dice_Fur/anima/bg_dice_fur_009.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/bg_dice_white_down_1.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/bg_dice_electricity_up_3.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_laughing/GamytechAnimation13.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisWaiting/chat_waiting/bg_i6_chat_gb_waiting_head.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_wow/chat_Gamygirl_wow/bg_i6_chat_gg_wow_hand2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_wow/chat_Gamygirl_wow/bg_i6_chat_gg_wow_mouth.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/LoopAnimator.controller
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_Angry/chat_Gamygirl_Angry/bg_i6_chat_gg_angry_brow2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SilverDice/bg_dice_silver/anima/bg_dice_silver_012.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Beeds/mascots_beads_loop/mascots_beads_loop_17.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/TextChats/TextChat 8.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisCrying/LuisCryingAnimation.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_cookie/CookieBlessingPrefab.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Kiss/LuckyItemData 23.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/GoldDice/bg_dice_gold/anima/bg_dice_gold_015.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Beeds/mascots_beads_loop/mascots_beads_loop_16.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Beeds/mascots_beads_loop/mascots_beads_loop_02.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisCrying/Chat_Crying/bg_i6_chat_gb_crying_tear.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SilverDice/bg_dice_silver/anima/bg_dice_silver_011.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/GoldDice/bg_dice_gold/bg_dice_gold_down_3.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FurDice/bg_dice_Fur/anima/bg_dice_fur_016.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Clover/clover.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FurDice/bg_dice_Fur/bg_dice_fur_down_3.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisFacePalm/chat_facepalm/bg_i6_chat_gb_facepalm_head.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/RedDice/bg_dice_red/bg_dice_v1_red_down_4.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/DiceElectricity.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_Angry/GamygirlAngryAnimation.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BigDice/bg_dice_Big/anima/bg_dice_big_008.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisThinking/chat_thinking/bg_i6_chat_gb_thinking_brow2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/DiceIcePt.mat
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisThinking/chat_thinking/bg_i6_chat_gb_thinking_brow1.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/anima/bg_dice_fire_003.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_00.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_budda/blessings_budda_background.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/anima/bg_dice_fire_009.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_05.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SilverDice/bg_dice_silver/bg_dice_silver_down_6.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Beeds/LoopAnimator.controller
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/RedDice/bg_dice_red/anima/bg_dice_v1_red_007.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_17.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_16.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_thinking/chat_Gamygirl_thinking/bg_i6_chat_gg_thinking_hand.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/Loop/bg_dice_electricity_loop_11.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SilverDice/bg_dice_silver/bg_dice_silver_down_4.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/anima/bg_dice_fire_005.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/Loop/bg_dice_electricity_loop_09.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/DiceLoop.controller
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/Loop/bg_dice_electricity_loop_08.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Beeds/mascots_beads_loop/mascots_beads_loop_07.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisLike/chat_like/bg_i6_chat_gb_like_body.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/anima/bg_dice_white_019.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/GrumpyCat/LuckyItemData 17.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_santa/blessings_santa_hand1.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/anima/bg_dice_white_010.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/Loop/bg_dice_electricity_loop_13.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BigDice/bg_dice_Big/anima/bg_dice_big_009.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/MarbleDice/RoleDiceAnimationMarble.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_07.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/RedDice/bg_dice_red/anima/bg_dice_v1_red_005.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SmallDice/bg_dice_Small/bg_dice_small_up_3.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/anima/bg_dice_white_008.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/RoleDiceAnimationWhite.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/bg_dice_Ice/anima/bg_dice_ice_008.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_gamygirl/BlessingData.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FurDice/bg_dice_Fur/anima/bg_dice_fur_004.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_GoodLuck/chat_Gamygirl_GoodLuck/bg_i6_chat_gg_goodluck_hand.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_23.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisThinking/chat_thinking/bg_i6_chat_gb_thinking_body.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/RedDice/bg_dice_red/anima/bg_dice_v1_red_008.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/anima/bg_dice_electricity_000.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BigDice/bg_dice_Big/anima/bg_dice_big_001.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_thinking/GamygirlThinkingAnimation.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_waiting/chat_Gamygirl_waiting/bg_i6_chat_gg_waiting_head.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_cookie/blessings_cookie1.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_facepalm/chat_gamygirl_facepalm/head.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FurDice/bg_dice_Fur/bg_dice_fur_up_6.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Beeds/mascots_beads_loop/mascots_beads_loop_12.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_wow/chat_Gamygirl_wow/bg_i6_chat_gg_wow_brow1.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BlackDice/bg_dice_black/anima/bg_dice_black_001.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/bg_dice_fire_up_1.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/Loop/bg_dice_fire_loop_06.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/RedDice/DiceRed.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/anima/bg_dice_electricity_010.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/GoldDice/bg_dice_gold/anima/bg_dice_gold_000.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_24.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_08.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisFacePalm/LuisAnimation5.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FurDice/bg_dice_Fur/anima/bg_dice_fur_007.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_gamygirl/blessings_gamygirl_eye3.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Shark/shark.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/GoldDice/bg_dice_gold/anima/bg_dice_gold_016.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SilverDice/bg_dice_silver/bg_dice_silver_up_4.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/RedDice/bg_dice_red/bg_dice_v1_red_up_2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_GoodLuck/chat_Gamygirl_GoodLuck/bg_i6_chat_gb_like_light.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Kiss/kiss.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SmallDice/bg_dice_Small/anima/bg_dice_small_015.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_crying/GamytechAnimation10.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/anima/bg_dice_white_001.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_15.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Clover/mascots_clover/mascots_clover.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_crying/chat_Gamygirl_crying/bg_i6_chat_gg_crying_head.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/RedDice/bg_dice_red/anima/bg_dice_v1_red_013.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Wine/wine.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/MarbleDice/bg_dice_marble/bg_dice_marble_up_3.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Hamsa/mascots_hamsa/mascots_hamsa.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/UnluckyHorseshoe/LuckyItemData
+  20.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/BlackDices/LuckyItemData
+  4.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/MarbleDice/bg_dice_marble/anima/bg_dice_marble_010.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_20.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BlackDice/bg_dice_black/bg_dice_black_up_3.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/RedDice/bg_dice_red/anima/bg_dice_v1_red_003.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/TextChats/TextChat.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisAngry/LuisAngryAnimation.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisWaiting/chat_waiting/bg_i6_chat_gb_waiting_hand.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SmallDice/bg_dice_Small/anima/bg_dice_small_013.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SmallDice/bg_dice_Small/anima/bg_dice_small_005.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/bg_dice_Ice/bg_dice_ice_up_2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/bg_dice_electricity_up_2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SilverDice/bg_dice_silver/anima/bg_dice_silver_008.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Hamsa/hamsa.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/bg_dice_Ice/anima/bg_dice_ice_011.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/MarbleDice/bg_dice_marble/anima/bg_dice_marble_017.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/anima/bg_dice_electricity_001.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_43.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SmallDice/bg_dice_Small/anima/bg_dice_small_011.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_santa/blessings_santa_bags2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Hamsa/Hamsa.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BigDice/bg_dice_Big/bg_dice_big_up_1.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BigDice/bg_dice_Big/bg_dice_big_down_5.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_thinking/GamytechAnimation14.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisWow/chat_wow/bg_i6_chat_gb_wow_brow1.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_budda/BlessingData.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_crying/chat_Gamygirl_crying/bg_i6_chat_gg_crying_body.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/bg_dice_white_up_6.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/bg_dice_electricity_down_6.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/bg_dice_fire_down_3.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_cookie/blessings_cookie_text.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BigDice/bg_dice_Big/bg_dice_big_down_3.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisCrying/Chat_Crying/bg_i6_chat_gb_crying_head.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/anima/bg_dice_electricity_006.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/BlackBall/LuckyItemData 2.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/Coffee.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SmallDice/DiceSmall.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/MarbleDice/bg_dice_marble/anima/bg_dice_marble_016.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_waiting/GamygirlWaitingAnimation.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/GoldDice/DiceGold.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BlackDice/bg_dice_black/anima/bg_dice_black_017.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/bg_dice_fire_up_2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/DiceAnimatorFire.controller
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/bg_dice_fire_down_2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Dodge/doge.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/BlackCat/LuckyItemData 3.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/MarbleDice/bg_dice_marble/bg_dice_marble_down_1.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Crown2/LuckyItemData 10.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FurDice/bg_dice_Fur/anima/bg_dice_fur_006.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisWow/chat_wow/bg_i6_chat_gb_crying_body.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/HorseShoe/mascots_horseshoe/mascots_horseshoe.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BigDice/bg_dice_Big/bg_dice_big_up_3.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/RedDice/DiceRed.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/GoldDice/bg_dice_gold/bg_dice_gold_up_2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/bg_dice_white_up_5.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/SilverDices/silver_dices.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_Angry/chat_Gamygirl_Angry/bg_i6_chat_gg_angry_body.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/anima/bg_dice_electricity_016.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_leprechaun/blessings_leprechaun_coin.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/UnluckyDices/unlucky_dices.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/bg_dice_Ice/bg_dice_ice_up_1.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/anima/bg_dice_electricity_012.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/MarbleDice/bg_dice_marble/bg_dice_marble_up_2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/RedDice/bg_dice_red/bg_dice_v1_red_down_1.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/bg_dice_Ice/anima/bg_dice_ice_018.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BlackDice/bg_dice_black/anima/bg_dice_black_008.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/RedDice/bg_dice_red/bg_dice_v1_red_up_3.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SmallDice/bg_dice_Small/anima/bg_dice_small_001.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BigDice/bg_dice_Big/anima/bg_dice_big_017.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/TextChats/TextChat 11.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/Loop/bg_dice_fire_loop_05.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisWow/chat_wow/bg_i6_chat_gb_wow_brow2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/FireDices/fire_dices.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BlackDice/bg_dice_black/anima/bg_dice_black_010.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Beeds/mascots_beads_loop/mascots_beads_loop_06.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/bg_dice_Ice/bg_dice_ice_down_5.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BlackDice/bg_dice_black/bg_dice_black_up_1.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/RedDice/bg_dice_red/anima/bg_dice_v1_red_002.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisLike/LuisLikeAnimation.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BigDice/bg_dice_Big/anima/bg_dice_big_019.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SilverDice/bg_dice_silver/anima/bg_dice_silver_004.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FurDice/bg_dice_Fur/anima/bg_dice_fur_014.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/GoldDice/RoleDiceAnimationGold.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/bg_dice_Ice/bg_dice_ice_up_3.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/2.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FurDice/RoleDiceAnimationFur.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SmallDice/bg_dice_Small/bg_dice_small_up_5.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FurDice/bg_dice_Fur/bg_dice_fur_down_5.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisAngry/chat_angry/bg_i6_chat_gb_angry_head.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Clover/mascots_clover/mascots_mask.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/Loop/bg_dice_fire_loop_14.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/anima/bg_dice_fire_000.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisAngry/chat_angry/bg_i6_chat_gb_angry_sign.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/anima/bg_dice_fire_008.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/DiceLoop.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/MarbleDice/bg_dice_marble/anima/bg_dice_marble_007.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/bg_dice_Ice/bg_dice_ice_up_4.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FurDice/bg_dice_Fur/anima/bg_dice_fur_015.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/bg_dice_electricity_down_2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_crying/ChatData.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/Loop/bg_dice_fire_loop_07.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SmallDice/bg_dice_Small/bg_dice_small_down_2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/bg_dice_electricity_up_6.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisFacePalm/LuisFacePalm.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisLike/LuisAnimation1.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/Loop/bg_dice_electricity_loop_06.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_facepalm/GamytechAnimation11.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SmallDice/bg_dice_Small/anima/bg_dice_small_012.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisFacePalm/LuisfacepalmAnimation.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_gamygirl/Animation.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_03.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SmallDice/bg_dice_Small/anima/bg_dice_small_004.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/MarbleDice/bg_dice_marble/anima/bg_dice_marble_008.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BlackDice/bg_dice_black/bg_dice_black_up_4.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/bg_dice_Ice/anima/bg_dice_ice_006.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/bg_dice_white_down_6.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_waiting/chat_Gamygirl_waiting/bg_i6_chat_gg_waiting_brow.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Beeds/mascots_beads_loop/mascots_beads_loop_19.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/RedDice/bg_dice_red/anima/bg_dice_v1_red_016.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_crying/GamygirlCryingAnimation.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SilverDice/bg_dice_silver/anima/bg_dice_silver_015.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SmallDice/bg_dice_Small/anima/bg_dice_small_014.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisThinking/LuisThinking.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisLike/chat_like/bg_i6_chat_gb_like_head.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_santa/BlessingPrefab.controller
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisThinking/chat_thinking/bg_i6_chat_gb_thinking_finger.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/Loop/bg_dice_electricity_loop_07.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SmallDice/bg_dice_Small/anima/bg_dice_small_018.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BigDice/DiceAnimatorBig.controller
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FurDice/bg_dice_Fur/anima/bg_dice_fur_017.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/anima/bg_dice_electricity_009.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SmallDice/bg_dice_Small/bg_dice_small_down_1.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/MarbleDice/DiceMarble.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_facepalm/chat_gamygirl_facepalm/body.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Hamsa/mascots_hamsa/mascots_hamsa_highlight.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Maracas/LuckyItemData 22.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisLaughing/chat_Laughing/bg_i6_chat_gb_laughing_body.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SmallDice/bg_dice_Small/bg_dice_small_up_1.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_36.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SmallDice/DiceSmall.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Coin/LuckyItemData 8.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FurDice/bg_dice_Fur/anima/bg_dice_fur_008.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/GoldDice/bg_dice_gold/anima/bg_dice_gold_018.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/Particles.controller
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BlackDice/DiceAnimatorBlack.controller
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/bg_dice_white_up_4.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/bg_dice_white_up_3.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/GoldDice/bg_dice_gold/bg_dice_gold_up_3.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/GoldDice/bg_dice_gold/bg_dice_gold_down_4.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Crown1/crown1.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BlackDice/bg_dice_black/anima/bg_dice_black_013.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/CoffeeCup/coffee_cup.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/anima/bg_dice_white_009.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Beeds/mascots_beads_loop/mascots_beads_loop_11.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_18.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/bg_dice_fire_down_1.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_25.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BigDice/bg_dice_Big/bg_dice_big_down_6.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/MarbleDice/bg_dice_marble/anima/bg_dice_marble_011.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/CoffeeAnimatorController.controller
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_thinking/ChatData.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/anima/bg_dice_fire_017.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Star/star.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/DiceLoopElectricity.controller
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SilverDice/DiceSilver.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Beeds/mascots_beads.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/RedDice/bg_dice_red/bg_dice_v1_red_up_4.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FurDice/bg_dice_Fur/bg_dice_fur_down_1.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BlackDice/bg_dice_black/bg_dice_black_up_5.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/GoldDice/bg_dice_gold/anima/bg_dice_gold_012.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_cookie/BlessingPrefab.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/anima/bg_dice_electricity_004.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/CryBaby/cry_baby.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BigDice/bg_dice_Big/anima/bg_dice_big_004.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/MarbleDice/bg_dice_marble/bg_dice_marble_down_5.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_cookie/blessings_cookie2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Skull/skull.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/RedDice/bg_dice_red/bg_dice_v1_red_down_5.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/anima/bg_dice_fire_004.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/GoldDice/bg_dice_gold/anima/bg_dice_gold_013.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/DiceFirePt.mat
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisCrying/Chat_Crying/bg_i6_chat_gb_crying_mouth.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SilverDice/bg_dice_silver/bg_dice_silver_down_5.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/anima/bg_dice_white_006.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/FireDices/LuckyItemData 12.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BlackDice/bg_dice_black/anima/bg_dice_black_016.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_leprechaun/blessings_leprechaun_hand.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_facepalm/chat_gamygirl_facepalm/hand.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SilverDice/bg_dice_silver/bg_dice_silver_down_3.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Beeds/MascotData.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Horseshoe/horseshoe.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SmallDice/bg_dice_Small/anima/bg_dice_small_009.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_35.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/anima/bg_dice_electricity_002.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/anima/bg_dice_fire_014.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/bg_dice_fire_up_4.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SilverDice/bg_dice_silver/anima/bg_dice_silver_016.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SilverDice/bg_dice_silver/anima/bg_dice_silver_018.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/MarbleDice/bg_dice_marble/anima/bg_dice_marble_018.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FurDice/bg_dice_Fur/anima/bg_dice_fur_002.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/BlackDices/black_dices.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_leprechaun/leprechaunBlessingPrefab.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/GoldDice/bg_dice_gold/bg_dice_gold_down_2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FurDice/bg_dice_Fur/anima/bg_dice_fur_000.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/RedDice/bg_dice_red/anima/bg_dice_v1_red_019.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/RedDice/bg_dice_red/bg_dice_v1_red_up_1.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SmallDice/DiceAnimatorSmall.controller
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Beeds/mascots_beads_loop/mascots_beads_loop_10.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/bg_dice_Ice/bg_dice_ice_down_6.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SmallDice/bg_dice_Small/anima/bg_dice_small_007.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/Loop/bg_dice_fire_loop_18.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_37.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/RedDice/bg_dice_red/bg_dice_v1_red_down_6.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Clover/mascots_clover/mascots_rainbow2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/bg_dice_white_up_1.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/anima/bg_dice_fire_012.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/MarbleDice/bg_dice_marble/anima/bg_dice_marble_002.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Crown1/LuckyItemData 9.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/RedDice/bg_dice_red/anima/bg_dice_v1_red_001.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/GoldenDollar/golden_dollar.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Beeds/mascots_beads_loop/mascots_beads_loop_08.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/anima/bg_dice_white_012.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Hamsa/mascots_hamsa/mascots_sparkle.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BlackDice/bg_dice_black/anima/bg_dice_black_005.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/RedDice/bg_dice_red/anima/bg_dice_v1_red_010.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SmallDice/bg_dice_Small/anima/bg_dice_small_017.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/DiceIce.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/anima/bg_dice_white_017.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BlackDice/DiceBlack.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FurDice/bg_dice_Fur/anima/bg_dice_fur_012.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BlackDice/bg_dice_black/anima/bg_dice_black_018.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/RedDice/bg_dice_red/anima/bg_dice_v1_red_017.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/bg_dice_Ice/bg_dice_ice_down_2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/MarbleDice/bg_dice_marble/anima/bg_dice_marble_006.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/RedDice/bg_dice_red/anima/bg_dice_v1_red_012.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BigDice/bg_dice_Big/anima/bg_dice_big_010.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/1.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_12.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/bg_dice_fire_back_texture.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Clover/Animation.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/GoldDice/bg_dice_gold/anima/bg_dice_gold_009.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/GrumpyCat/grumpy_cat.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SilverDice/bg_dice_silver/anima/bg_dice_silver_014.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BlackDice/bg_dice_black/anima/bg_dice_black_012.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/anima/bg_dice_fire_011.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/GoldDice/bg_dice_gold/bg_dice_gold_up_5.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisAngry/LuisAnimation3.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SmallDice/RoleDiceAnimationSmall.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/DiceWhite.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BigDice/bg_dice_Big/anima/bg_dice_big_007.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SmallDice/bg_dice_Small/anima/bg_dice_small_006.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/anima/bg_dice_electricity_007.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisThinking/LuisAnimation6.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SilverDice/bg_dice_silver/anima/bg_dice_silver_005.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/HorseShoe/mascots_horseshoe/mascots_sparkle.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/MarbleDice/DiceAnimatorMarble.controller
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/TextChats/TextChat 6.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FurDice/bg_dice_Fur/anima/bg_dice_fur_001.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/DiceAnimatorElectricity.controller
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_GoodLuck/ChatData.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/bg_dice_Ice/bg_dice_ice_pt.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_leprechaun/blessings_leprechaun_background.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisCrying/Chat_Crying/bg_i6_chat_gb_crying_body.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_40.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SmallDice/bg_dice_Small/bg_dice_small_up_2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FurDice/bg_dice_Fur/bg_dice_fur_up_5.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_19.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_wow/ChatData.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/Loop/bg_dice_electricity_loop_14.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_13.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/TextChats/TextChat 1.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/bg_dice_fire_down_6.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/GoldDice/DiceAnimatorGold.controller
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SilverDice/bg_dice_silver/anima/bg_dice_silver_001.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SmallDice/bg_dice_Small/anima/bg_dice_small_010.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/CryBaby/LuckyItemData 11.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/HorseShoe/HorseShoe.controller
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FurDice/bg_dice_Fur/anima/bg_dice_fur_013.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_wow/GamytechAnimation16.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisWow/chat_wow/bg_i6_chat_gb_wow_head.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SilverDice/bg_dice_silver/anima/bg_dice_silver_019.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_gamygirl/background.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SilverDice/DiceSilver.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Beer/beer.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisFacePalm/chat_facepalm/bg_i6_chat_gb_facepalm_body.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/BlackBall/black_ball.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/DiceLoop.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FurDice/bg_dice_Fur/bg_dice_fur_up_1.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FurDice/bg_dice_Fur/anima/bg_dice_fur_010.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/Loop/bg_dice_fire_loop_04.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BlackDice/bg_dice_black/bg_dice_black_down_6.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_29.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/bg_dice_Ice/anima/bg_dice_ice_017.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/RedDice/bg_dice_red/bg_dice_v1_red_down_3.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SmallDice/bg_dice_Small/bg_dice_small_down_6.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/DiceWhite.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/anima/bg_dice_electricity_005.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_cup.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/Loop/bg_dice_fire_loop_09.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BigDice/DiceBig.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/DiceFire.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Clover/MascotData.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/Loop/bg_dice_fire_loop_11.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FurDice/bg_dice_Fur/anima/bg_dice_fur_020.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisLike/LuisLike.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/MarbleDice/bg_dice_marble/bg_dice_marble_down_4.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_crying/chat_Gamygirl_crying/bg_i6_chat_gg_crying_mouth.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/DiceElectricity.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/GoldDice/bg_dice_gold/anima/bg_dice_gold_002.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/RedDice/bg_dice_red/anima/bg_dice_v1_red_006.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BlackDice/bg_dice_black/anima/bg_dice_black_002.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/GoldDice/bg_dice_gold/bg_dice_gold_down_6.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/anima/bg_dice_fire_007.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/MarbleDice/bg_dice_marble/anima/bg_dice_marble_009.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/Particle System.controller
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/Loop/bg_dice_fire_loop_13.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/TextChats/TextChat 3.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SilverDice/bg_dice_silver/anima/bg_dice_silver_003.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Clover/LuckyItemData 7.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FurDice/bg_dice_Fur/anima/bg_dice_fur_011.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/Loop/bg_dice_electricity_loop_20.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/bg_dice_Ice/bg_dice_ice_down_1.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/MarbleDice/bg_dice_marble/anima/bg_dice_marble_000.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BigDice/bg_dice_Big/bg_dice_big_up_2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/GoldDice/bg_dice_gold/bg_dice_gold_down_5.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BlackDice/bg_dice_black/anima/bg_dice_black_006.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Beeds/mascots_beads_loop/mascots_beads_loop_18.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Cat/LuckyItemData 6.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BlackDice/bg_dice_black/bg_dice_black_up_6.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/anima/bg_dice_electricity_013.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/Loop/bg_dice_electricity_loop_19.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BlackDice/bg_dice_black/bg_dice_black_down_1.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_wow/chat_Gamygirl_wow/bg_i6_chat_gg_wow_hand1.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/bg_dice_fire_up_5.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/GoldDice/bg_dice_gold/bg_dice_gold_down_1.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FurDice/bg_dice_Fur/anima/bg_dice_fur_019.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_laughing/chat_Gamygirl_laughing/bg_i6_chat_gg_laughing_head.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Beeds/Loop.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/Loop/bg_dice_electricity_loop_23.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/DiceAnimatorWhite.controller
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/RedDice/DiceAnimatorRed.controller
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Beeds/mascots_beads_loop/mascots_beads_loop_09.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BlackDice/RoleDiceAnimationBlack.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_wow/chat_Gamygirl_wow/bg_i6_chat_gg_wow_brow2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_44.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Clover/Animator.controller
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_33.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BlackDice/bg_dice_black/anima/bg_dice_black_009.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SilverDice/bg_dice_silver/anima/bg_dice_silver_009.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_leprechaun/blessings_leprechaun_finger.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Coin/coin.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/anima/bg_dice_white_013.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SmallDice/bg_dice_Small/anima/bg_dice_small_000.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/anima/bg_dice_fire_002.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_laughing/chat_Gamygirl_laughing/bg_i6_chat_gg_angry_body.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BlackDice/bg_dice_black/anima/bg_dice_black_015.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Martini/LuckyItemData 22.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SmallDice/bg_dice_Small/bg_dice_small_up_4.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/MarbleDice/bg_dice_marble/anima/bg_dice_marble_012.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/anima/bg_dice_electricity_014.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Diamond/diamond.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/anima/bg_dice_white_018.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_gamygirl/blessings_gamygirl.psd
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/Loop.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/BoxOfTissues/LuckyItemData
+  5.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/MarbleDice/bg_dice_marble/bg_dice_marble_up_5.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/DiceAnimatorIce.controller
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BigDice/bg_dice_Big/anima/bg_dice_big_003.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/bg_dice_Ice/anima/bg_dice_ice_003.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisWaiting/LuiswaitingAnimation.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/Animation.controller
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/TextChats/TextChat 7.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/BlackDice/DiceBlack.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Blessings/blessings_cookie/animation.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_Angry/GamytechAnimation9.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_facepalm/GamygirlFacepalmAnimation.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/bg_dice_fire_up_3.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/anima/bg_dice_white_002.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/GoldDice/bg_dice_gold/anima/bg_dice_gold_004.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_34.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Pot/LuckyItemData 21.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/bg_dice_Ice/anima/bg_dice_ice_002.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/bg_dice_Fire/anima/bg_dice_fire_006.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/GoldDice/bg_dice_gold/bg_dice_gold_up_4.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/IceDice/DiceParticle.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/MarbleDice/bg_dice_marble/bg_dice_marble_down_2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SmallDice/bg_dice_Small/bg_dice_small_down_3.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_GoodLuck/GamytechAnimation12.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/WhiteDice/bg_dice_white/anima/bg_dice_white_000.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/MarbleDice/bg_dice_marble/anima/bg_dice_marble_019.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/Gamygirl_thinking/chat_Gamygirl_thinking/bg_i6_chat_gg_thinking_finger.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Beeds/Beads.prefab
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FurDice/DiceFur.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_39.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/FireDice/RoleDiceAnimationFire.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_14.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/ElectricityDice/bg_dice_Electricity/bg_dice_electricity_down_3.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee_loop/mascots_coffee_smoke_30.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Hamsa/mascots_hamsa/mascots_hamsa_mask.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/mascots_coffee2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Coffee/3.anim
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/GoldDice/bg_dice_gold/anima/bg_dice_gold_011.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisWaiting/chat_waiting/bg_i6_chat_gb_waiting_finger2.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/RedDice/bg_dice_red/anima/bg_dice_v1_red_004.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/ChatItems/LuisLaughing/chat_Laughing/bg_i6_chat_gb_laughing_head.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/LuckyItems/Shark/LuckyItemData 23.asset
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/SmallDice/bg_dice_Small/bg_dice_small_down_5.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Mascots/Beeds/mascots_beads_loop/mascots_beads_loop_00.png
+- Assets/Menu/MenuAssets/Store/StoreItemsData/Dice/MarbleDice/bg_dice_marble/anima/bg_dice_marble_015.png
+Dependencies: []

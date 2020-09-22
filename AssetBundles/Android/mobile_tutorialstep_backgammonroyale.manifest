@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3349358319
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: db8477cbc7d498bdc61a93cb972c404a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 93896f1abeba98fed6451dc80821073f
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 4bbee76e49fb6804c8476cfb2b4460c5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Menu/MenuAssets/TutorialStep/Step_Mobile_backgammonroyale/13.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_Mobile_backgammonroyale/1.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_Mobile_backgammonroyale/Visit3.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_Mobile_backgammonroyale/10.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_Mobile_backgammonroyale/9.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_Mobile_backgammonroyale/5.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_Mobile_backgammonroyale/3.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_Mobile_backgammonroyale/12.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_Mobile_backgammonroyale/Visit1.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_Mobile_backgammonroyale/4.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_Mobile_backgammonroyale/6.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_Mobile_backgammonroyale/8.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_Mobile_backgammonroyale/Visit2.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_Mobile_backgammonroyale/2.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_Mobile_backgammonroyale/11.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_Mobile_backgammonroyale/7.asset
+Dependencies: []

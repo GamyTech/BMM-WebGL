@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1609621847
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 590328f0fa414a9a02582b2544572048
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 09f9977fc2d4783dda230cec1e0e31fa
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 83a2d472a7bc5f74683fad4d2bf8dbb9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Menu/MenuAssets/Store/Boards/Greek_56/bg_board_v6/bg_i6_board_v6_mask_mid.png
+- Assets/Menu/MenuAssets/Store/Boards/Greek_56/bg_board_v6/bg_i6_v6_chip_black_game.png
+- Assets/Menu/MenuAssets/Store/Boards/Greek_56/bg_board_v6/bg_i6_v6_chip_white_side.png
+- Assets/Menu/MenuAssets/Store/Boards/Greek_56/bg_board_v6/bg_board_v6_base.png
+- Assets/Menu/MenuAssets/Store/Boards/Greek_56/bg_board_v6/bg_i6_v6_board_mask_down.png
+- Assets/Menu/MenuAssets/Store/Boards/Greek_56/bg_board_v6/bg_i6_v6_chip_black_side.png
+- Assets/Menu/MenuAssets/Store/Boards/Greek_56/BoardData_56.asset
+- Assets/Menu/MenuAssets/Store/Boards/Greek_56/bg_board_v6/bg_i6_v6_chip_white_game.png
+Dependencies: []

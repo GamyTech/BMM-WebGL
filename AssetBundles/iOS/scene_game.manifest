@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3491073015
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 63f9a104d01618f74ae0dec06fdd6b3d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Game/Scene/Game.unity
+Dependencies:
+- C:/Projects/Backgammon3/AssetBundles/iOS/game_assets
+- C:/Projects/Backgammon3/AssetBundles/iOS/menu_prefabs
+- C:/Projects/Backgammon3/AssetBundles/iOS/sounds
+- C:/Projects/Backgammon3/AssetBundles/iOS/menu_textures
+- C:/Projects/Backgammon3/AssetBundles/iOS/board_52

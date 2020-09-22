@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1075317532
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7397b690b0e680a5381500cbefa3fc37
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3c1faca8bfc7412d18e3ec9a7fc5f5d7
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 33bbe3162bd11d74e8c516499458a013, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Menu/MenuAssets/Rank/Resources/MedalsData/5.asset
+- Assets/Menu/MenuAssets/Rank/Resources/MedalsData/1.asset
+- Assets/Menu/MenuAssets/Rank/Resources/MedalsData/9.asset
+- Assets/Menu/MenuAssets/Rank/Resources/MedalsData/4.asset
+- Assets/Menu/MenuAssets/Rank/Resources/MedalsData/11.asset
+- Assets/Menu/MenuAssets/Rank/Resources/MedalsData/10.asset
+- Assets/Menu/MenuAssets/Rank/Resources/MedalsData/3.asset
+- Assets/Menu/MenuAssets/Rank/Resources/MedalsData/12.asset
+- Assets/Menu/MenuAssets/Rank/Resources/MedalsData/2.asset
+- Assets/Menu/MenuAssets/Rank/Resources/MedalsData/7.asset
+- Assets/Menu/MenuAssets/Rank/Resources/MedalsData/6.asset
+- Assets/Menu/MenuAssets/Rank/Resources/MedalsData/8.asset
+Dependencies: []

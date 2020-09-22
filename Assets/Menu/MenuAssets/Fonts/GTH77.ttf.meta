@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fce2e7808fe3a264e8e8c758e16bee5b
+timeCreated: 1488360404
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GTH 77
+  fontNames:
+  - GTH 77
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d3f4747741c11634aaec7dba0b53a846, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 322338b4e78624041a63a830e3edd7f3
+timeCreated: 1464615291
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: gamytech
+  fontNames:
+  - gamytech
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 884732743cec3a04d99ce6a85dc7312c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3644071964
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0dde62acdbc3d4292f3569f0546fa70b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c020fecc19630080171ff66c57f8b149
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa003882bb1a5ee4595a9838a93a220a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Menu/MenuAssets/GameSpecific/GameSpecific_backgammonroyale.asset
+Dependencies: []

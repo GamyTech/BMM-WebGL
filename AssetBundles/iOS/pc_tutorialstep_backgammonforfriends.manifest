@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 900150216
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ab905ff0346a211890c69a341ad1d60
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 992f37cf8150dabd3f0a342edfe41b66
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 4bbee76e49fb6804c8476cfb2b4460c5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Menu/MenuAssets/TutorialStep/Step_PC_backgammonforfriends/3.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_PC_backgammonforfriends/9.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_PC_backgammonforfriends/8.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_PC_backgammonforfriends/2.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_PC_backgammonforfriends/5.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_PC_backgammonforfriends/7.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_PC_backgammonforfriends/1.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_PC_backgammonforfriends/11.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_PC_backgammonforfriends/10.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_PC_backgammonforfriends/4.asset
+Dependencies: []

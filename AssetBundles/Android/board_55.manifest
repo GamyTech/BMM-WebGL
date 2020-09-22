@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2006010381
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6a5de1a185eecfd82f39a0d0c59edd16
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6a8ddf056a9d85b62aa2e7fc30833939
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 83a2d472a7bc5f74683fad4d2bf8dbb9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Menu/MenuAssets/Store/Boards/Luxury_55/bg_board_v5/bg_i6_board_v5_mask_mid.png
+- Assets/Menu/MenuAssets/Store/Boards/Luxury_55/bg_board_v5/bg_i6_v5_board_mask_down.png
+- Assets/Menu/MenuAssets/Store/Boards/Luxury_55/bg_board_v5/bg_i6_v5_chip_black_game.png
+- Assets/Menu/MenuAssets/Store/Boards/Luxury_55/bg_board_v5/bg_i6_v5_chip_black_side.png
+- Assets/Menu/MenuAssets/Store/Boards/Luxury_55/BoardData_55.asset
+- Assets/Menu/MenuAssets/Store/Boards/Luxury_55/bg_board_v5/bg_i6_v5_chip_white_game.png
+- Assets/Menu/MenuAssets/Store/Boards/Luxury_55/bg_board_v5/bg_board_v5_base.png
+- Assets/Menu/MenuAssets/Store/Boards/Luxury_55/bg_board_v5/bg_i6_v5_chip_white_side.png
+Dependencies: []

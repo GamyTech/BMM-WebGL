@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2063139834
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a565f53e1976e8667d9763cf0b0baf37
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Game/Scene/Game.unity
+Dependencies:
+- E:/project/Backgammon3-unity2018/AssetBundles/Android/sounds
+- E:/project/Backgammon3-unity2018/AssetBundles/Android/board_52

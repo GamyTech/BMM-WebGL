@@ -1,0 +1,17 @@
+This is the details about how the ui navigation system works.
+The UI navigation is used to jump from a selected ui element to the next one or to trigger a click action only with the keyboard.
+
+Such as it responds from keyboard's inputs, this system is only active on standalone and WebGL.
+
+Fisrt, all menu widgets have as public parameter a fisrt selectable UI selectable element which is the starting element that will be selected when the widget is loaded. It can be null.
+
+For every selectable elements in every widgets you have to specifiy an explicit navigation order.
+
+By pressing Tab, you will switch to the next down selectable wich is active and selectable.
+You can also set a selectable on the right navigation slot to jump on an other navigation loop.
+Shift will navigate to previous element in the navigation loop.
+
+By pressing Enter:
+	if the selected element is a button, you will pressed it.
+	if it is  a toggle, it will go on On position and select the next element.
+	if it is a InputField and the next element is a button, you will directly press that button.

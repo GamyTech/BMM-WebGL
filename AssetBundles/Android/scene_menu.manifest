@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 2145019443
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ee150c0d9eac2f085f77026a5ed71b34
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Menu/Scenes/Menu.unity
+Dependencies: []

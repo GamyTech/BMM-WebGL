@@ -1,0 +1,83 @@
+ManifestFileVersion: 0
+CRC: 4227346630
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: game_assets
+      Dependencies:
+        Dependency_0: storeitems
+        Dependency_1: board_52
+    Info_1:
+      Name: scene_game
+      Dependencies:
+        Dependency_0: game_assets
+        Dependency_1: menu_prefabs
+        Dependency_2: sounds
+        Dependency_3: menu_textures
+        Dependency_4: board_52
+    Info_2:
+      Name: menu_prefabs
+      Dependencies:
+        Dependency_0: menu_textures
+    Info_3:
+      Name: scene_menu
+      Dependencies:
+        Dependency_0: game_assets
+        Dependency_1: menu_prefabs
+        Dependency_2: menu_textures
+    Info_4:
+      Name: menu_widgets_prefabs
+      Dependencies:
+        Dependency_0: menu_prefabs
+        Dependency_1: menu_textures
+    Info_5:
+      Name: sounds
+      Dependencies: {}
+    Info_6:
+      Name: menu_textures
+      Dependencies: {}
+    Info_7:
+      Name: storeitems
+      Dependencies: {}
+    Info_8:
+      Name: rank
+      Dependencies: {}
+    Info_9:
+      Name: game_specific_backgammonroyale
+      Dependencies: {}
+    Info_10:
+      Name: game_specific_backgammonforfriends
+      Dependencies: {}
+    Info_11:
+      Name: game_specific_backgammon4money
+      Dependencies: {}
+    Info_12:
+      Name: game_specific_backgammonblockchain
+      Dependencies: {}
+    Info_13:
+      Name: pc_tutorial_step_backgammonforfriends
+      Dependencies: {}
+    Info_14:
+      Name: pc_tutorial_step_backgammon4money
+      Dependencies: {}
+    Info_15:
+      Name: board_57
+      Dependencies: {}
+    Info_16:
+      Name: board_52
+      Dependencies: {}
+    Info_17:
+      Name: board_-1
+      Dependencies: {}
+    Info_18:
+      Name: board_56
+      Dependencies: {}
+    Info_19:
+      Name: board_53
+      Dependencies: {}
+    Info_20:
+      Name: board_55
+      Dependencies: {}
+    Info_21:
+      Name: board_54
+      Dependencies: {}

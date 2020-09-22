@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 409745823
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cc36b52e955accfafaa5b7a02b75d9af
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Menu/Scenes/Menu.unity
+Dependencies:
+- E:/project/Backagammon3/AssetBundles/WebGL/game_assets
+- E:/project/Backagammon3/AssetBundles/WebGL/menu_prefabs
+- E:/project/Backagammon3/AssetBundles/WebGL/menu_textures

@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 3272174899
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 76ade7e24e7b1331ba937c3355fd0909
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6cd18000147389f65dab657e204e1354
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6d4853296fb32144f8d658e2facf406a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Menu/MenuAssets/Sounds/invite .mp3
+- Assets/Game/GameAssets/Sounds/CheckerMove.mp3
+- Assets/Game/GameAssets/Sounds/Button.wav
+- Assets/Menu/MenuAssets/Sounds/Resources/Sounds/Game/Win_SoundDate.asset
+- Assets/Menu/MenuAssets/Sounds/Resources/Sounds/Game/Eat_SoundDate.asset
+- Assets/Menu/MenuAssets/Sounds/Resources/Sounds/Menu/Collect_SoundData.asset
+- Assets/Game/GameAssets/Sounds/CheckerMove2.mp3
+- Assets/Menu/MenuAssets/Sounds/Resources/Sounds/Menu/Click_SoundData.asset
+- Assets/Game/GameAssets/Sounds/Lose.mp3
+- Assets/Menu/MenuAssets/Sounds/Resources/Sounds/Menu/Spin_SoundData.asset
+- Assets/Menu/MenuAssets/Sounds/Resources/Sounds/Game/BankTime_SoundDate.asset
+- Assets/Game/GameAssets/Sounds/CheckerOut.mp3
+- Assets/Menu/MenuAssets/Sounds/click.wav
+- Assets/Game/GameAssets/Sounds/BottonsCloseOpen.wav
+- Assets/Menu/MenuAssets/Sounds/Bonus_popup.mp3
+- Assets/Menu/MenuAssets/Sounds/Resources/Sounds/Menu/Matched_SoundData.asset
+- Assets/Menu/MenuAssets/Sounds/Resources/Sounds/Game/Lose_SoundDate.asset
+- Assets/Game/GameAssets/Sounds/Eat.mp3
+- Assets/Menu/MenuAssets/Sounds/Resources/Sounds/Game/Button_SoundDate.asset
+- Assets/Menu/MenuAssets/Sounds/Resources/Sounds/Game/CheckerOut_SoundDate.asset
+- Assets/Menu/MenuAssets/Sounds/lp_bonus_collect.mp3
+- Assets/Menu/MenuAssets/Sounds/Resources/Sounds/Game/Move_SoundDate.asset
+- Assets/Menu/MenuAssets/Sounds/Resources/Sounds/Game/Roll_SoundDate.asset
+- Assets/Menu/MenuAssets/Sounds/find opponent.wav
+- Assets/Menu/MenuAssets/Sounds/Resources/Sounds/Game/ButtonsOpenClose_SoundDate.asset
+- Assets/Game/GameAssets/Sounds/BackGroundSound.mp3
+- Assets/Menu/MenuAssets/Sounds/Resources/Sounds/Menu/Invite_SoundData.asset
+- Assets/Game/GameAssets/Sounds/Roll2.mp3
+- Assets/Game/GameAssets/Sounds/BankTime.mp3
+- Assets/Game/GameAssets/Sounds/Roll3.mp3
+- Assets/Game/GameAssets/Sounds/Win.wav
+- Assets/Menu/MenuAssets/Sounds/Resources/Sounds/Menu/Bonus_SoundData.asset
+- Assets/Game/GameAssets/Sounds/Roll1.mp3
+- Assets/Menu/MenuAssets/Sounds/spinning_loop.wav
+Dependencies: []

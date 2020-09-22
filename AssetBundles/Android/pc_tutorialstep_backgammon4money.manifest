@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1027156499
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fe17c355acba2072670524ddee04f302
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 93896f1abeba98fed6451dc80821073f
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 4bbee76e49fb6804c8476cfb2b4460c5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Menu/MenuAssets/TutorialStep/Step_PC_backgammon4money/9.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_PC_backgammon4money/10.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_PC_backgammon4money/4.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_PC_backgammon4money/2.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_PC_backgammon4money/11.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_PC_backgammon4money/5.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_PC_backgammon4money/3.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_PC_backgammon4money/1.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_PC_backgammon4money/6.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_PC_backgammon4money/8.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_PC_backgammon4money/7.asset
+Dependencies: []

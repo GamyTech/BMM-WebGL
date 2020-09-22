@@ -1,0 +1,191 @@
+ManifestFileVersion: 0
+CRC: 2935294126
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 36bef47e2837813a8c7666146f8743f7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e3edf46e045308f76bca7ccf418df78a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bc718747fb356444dab7485726dc891f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 344445a89b4f74a0e9a0a766903df87e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 91b4033bd87dc874bbf258bbb39e0df1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0336699c6206a7d47b75169f84d75fa4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 012f888d3c828a641a500f3a7e6ab40a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7b29538e022ee604cb8a895947415832, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 24d779fe82045fd4283d9c6d69f43666, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/GameAssets/Sprites/gui/Win/bg_i6_game_gui_win_facebook.png
+- Assets/Game/GameAssets/Sprites/DoubleCube/bg_i6_double_dice_blank.png
+- Assets/Game/GameAssets/Sprites/gui/bg_i6_game_gui_start_bg.png
+- Assets/Game/GameAssets/Sprites/gui/double/bg_i6_game_gui_double_dice.png
+- Assets/Game/GameAssets/Sprites/imageLoading/image_loading_12.jpg
+- Assets/Game/GameAssets/Views Prefabs/ReconnectView.prefab
+- Assets/Game/GameAssets/Sprites/gui/chat/chat_like/bg_i6_chat_gb_like_head.png
+- Assets/Game/GameAssets/Sprites/imageLoading/image_loading_11.jpg
+- Assets/Game/GameAssets/Sprites/tutorial_ft/bg_i6_game_gui_tutorial_ft_bg.png
+- Assets/Game/GameAssets/Sprites/gui/Settings/bg_i6_game_gui_Settings_toggle.png
+- Assets/Game/GameAssets/Sprites/gui/Win/bg_i6_game_gui_win_home.png
+- Assets/Game/GameAssets/Sprites/imageLoading/image_loading_07.jpg
+- Assets/Game/GameAssets/Sprites/gui/shop/bg_i6_game_shop_items_bg.png
+- Assets/Game/GameAssets/Sprites/gui/Settings/bg_i6_game_gui_Settings_icon_vibrate.png
+- Assets/Game/GameAssets/Sprites/imageLoading/image_loading_04.jpg
+- Assets/Game/GameAssets/Sprites/imageLoading/image_loading_02.jpg
+- Assets/Game/GameAssets/Prefabs/TextChatButton.prefab
+- Assets/Game/GameAssets/Fonts/ImperatorBronzeSmallCaps.ttf
+- Assets/Game/GameAssets/Prefabs/Checker.prefab
+- Assets/Game/GameAssets/Sprites/gui/chat/chat_like/bg_i6_chat_gb_like_light.png
+- Assets/Game/GameAssets/Sprites/tutorial/bg_i6_game_gui_tutorial_indicator.png
+- Assets/Game/GameAssets/Sprites/gui/Win/bg_i6_game_gui_win_addfriend.png
+- Assets/Game/GameAssets/Fonts/LinLibertine_aS.ttf
+- Assets/Game/GameAssets/Sprites/gui/game_gui/bg_i6_game_gui_side_button.png
+- Assets/Game/GameAssets/Sprites/imageLoading/image_loading_03.jpg
+- Assets/Game/GameAssets/Sprites/gui/chat/bg_i6_game_gui_chat_character_bubble.png
+- Assets/Game/GameAssets/Sprites/imageLoading/image_loading_01.jpg
+- Assets/Game/GameAssets/Sprites/gui/surrender/bg_i6_game_gui_surrender_black.png
+- Assets/Game/GameAssets/Sprites/gui/chat/bg_i6_game_gui_chat_default.png
+- Assets/Game/GameAssets/Prefabs/StoreToggleButton.prefab
+- Assets/Game/GameAssets/Sprites/tutorial_ft/main_pc_fft_arrow.png
+- Assets/Game/GameAssets/Sprites/gui/shop/bg_i6_game_shop_button.jpg
+- Assets/Game/GameAssets/Sprites/gui/gui_in_game/bg_i6_game_gui_ingame_autoroll_icon.png
+- Assets/Game/GameAssets/Sprites/gui/Settings/bg_i6_game_gui_Settings_toggle_off_bg.png
+- Assets/Game/GameAssets/Sprites/gui/chat/bg_i6_game_gui_chat_Write_icon.png
+- Assets/Game/GameAssets/Sprites/gui/chat/chat_like/bg_i6_chat_gb_like_hand.png
+- Assets/Game/GameAssets/Sprites/gui/gui_in_game/bg_i6_game_gui_double_button_undo_icon.png
+- Assets/Game/GameAssets/Sprites/gui/Win/bg_i6_game_gui_win_bubble_text.png
+- Assets/Game/GameAssets/Sprites/gui/double/bg_i6_game_gui_double_player_ask.png
+- Assets/Game/GameAssets/Sprites/gui/Win/bg_i6_game_gui_win_newoppnont.png
+- Assets/Game/GameAssets/Sprites/gui/Settings/bg_i6_game_gui_Settings_icon_surrender.png
+- Assets/Game/GameAssets/Sprites/imageLoading/image_loading_10.jpg
+- Assets/Game/GameAssets/Sprites/imageLoading/image_loading_05.jpg
+- Assets/Game/GameAssets/Views Prefabs/DoubleTheBetView.prefab
+- Assets/Game/GameAssets/Sprites/gui/game_gui/bg_i6_game_gui_side_profile_mask.jpg
+- Assets/Game/GameAssets/Views Prefabs/SurrenderView.prefab
+- Assets/Game/GameAssets/Sprites/gui/Win/bg_i6_game_gui_win_Double.png
+- Assets/Game/GameAssets/Sprites/imageLoading/image_loading_09.jpg
+- Assets/Game/GameAssets/Sprites/gui/Settings/bg_i6_game_gui_Settings_toggle_on.png
+- Assets/Game/GameAssets/Sprites/gui/gui_in_game/bg_i6_game_gui_ingame_off.png
+- Assets/Game/GameAssets/Sprites/gui/gui_in_game/bg_i6_game_gui_ingame_on.png
+- Assets/Game/GameAssets/Sprites/gui/game_gui/bg_i6_game_gui_side_icon_shop.png
+- Assets/Game/GameAssets/Sprites/gui/shop/bg_i6_game_shop_buttons_shadow_slice_4px.png
+- Assets/Game/GameAssets/Sprites/gui/chat/bg_i6_game_gui_chat_mute_icon.png
+- Assets/Game/GameAssets/Views Prefabs/PlayerStartView.prefab
+- Assets/Game/GameAssets/Views Prefabs/WinView.prefab
+- Assets/Game/GameAssets/Sprites/gui/chat/bg_i6_game_gui_side_button_pressed.png
+- Assets/Game/GameAssets/Sprites/gui/shop/bg_i6_game_shop_border.jpg
+- Assets/Game/GameAssets/Sprites/gui/Win/bg_i6_game_gui_win_bg.png
+- Assets/Game/GameAssets/Prefabs/ImageChatButton.prefab
+- Assets/Game/GameAssets/Sprites/gui/double/bg_i6_game_gui_double_player_asked.png
+- Assets/Game/GameAssets/Sprites/gui/shop/bg_i6_game_shop_buttons_slice_4px.png
+- Assets/Game/GameAssets/Sprites/imageLoading/image_loading_08.jpg
+- Assets/Game/GameAssets/Sprites/gui/game_gui/bg_i6_game_gui_side_icon_chat.png
+- Assets/Game/GameAssets/Sprites/imageLoading/image_loading_00.jpg
+- Assets/Game/GameAssets/Views Prefabs/SettingsView.prefab
+- Assets/Game/GameAssets/Sprites/gui/Reconnecting/bg_i6_game_gui_reconnecting_logo.png
+- Assets/Game/GameAssets/Sprites/gui/Settings/bg_i6_game_gui_Settings_close.png
+- Assets/Game/GameAssets/Sprites/gui/gui_in_game/bg_i6_game_gui_ingame_hide.png
+- Assets/Game/GameAssets/Sprites/gui/bg_i6_game_gui_text_glow.png
+- Assets/Game/GameAssets/Sprites/gui/game_gui/bg_i6_game_gui_side_icon_settings.png
+- Assets/Game/GameAssets/Sprites/gui/surrender/bg_i6_game_gui_surrender_red.png
+- Assets/Game/GameAssets/Sprites/gui/Settings/bg_i6_game_gui_Settings_bg.png
+- Assets/Game/GameAssets/Sprites/Texts/bg_i6_game_text_gold.jpg
+- Assets/Game/GameAssets/Sprites/gui/Win/bg_i6_game_gui_win_share.png
+- Assets/Game/GameAssets/Sprites/gui/Settings/bg_i6_game_gui_Settings_icon_sound.png
+- Assets/Game/GameAssets/Fonts/letters.txt
+- Assets/Game/GameAssets/Sprites/gui/Settings/bg_i6_game_gui_Settings_toggle_off.png
+- Assets/Game/GameAssets/Sprites/gui/Settings/bg_i6_game_gui_Settings_icon_tutorial.png
+- Assets/Game/GameAssets/Sprites/imageLoading/image_loading_06.jpg
+- Assets/Game/GameAssets/Sprites/gui/gui_in_game/bg_i6_game_gui_double_button_roll_icon.png
+- Assets/Game/GameAssets/Sprites/gui/bg_i6_low_connection.png
+- Assets/Game/GameAssets/Sprites/gui/game_gui/bg_i6_game_gui_side_banktime.png
+- Assets/Game/GameAssets/Sprites/gui/surrender/bg_i6_game_gui_surrender_bg.png
+- Assets/Game/GameAssets/Sprites/gui/shop/bg_i6_game_shop_bg.jpg
+- Assets/Game/GameAssets/Sprites/gui/bg_i6_game_gui_Settings_connection_01.png
+- Assets/Game/GameAssets/Sprites/gui/chat/chat_like/bg_i6_chat_gb_like_body.png
+- Assets/Game/GameAssets/Sprites/gui/double/bg_i6_game_gui_double_hide.png
+- Assets/Game/GameAssets/Sprites/gui/chat/bg_i6_game_gui_chat_button_on.png
+- Assets/Game/GameAssets/Sprites/gui/gui_in_game/bg_i6_game_gui_double_button_double_icon.png
+- Assets/Game/GameAssets/Sprites/gui/chat/bg_i6_game_gui_chat_bg.png
+- Assets/Game/GameAssets/Sprites/gui/game_gui/bg_i6_game_gui_side_bg.png
+- Assets/Game/GameAssets/Sprites/gui/chat/bg_i6_game_gui_chat_button_off.png
+- Assets/Game/GameAssets/Sprites/tutorial_ft/main_pc_fft_next.png
+- Assets/Game/GameAssets/Sprites/gui/bg_i6_game_gui_Settings_connection_03.png
+- Assets/Game/GameAssets/Prefabs/StoreItem.prefab
+- Assets/Game/GameAssets/Sprites/gui/shop/bg_i6_game_shop_buttons_inner_shadow_slice_4px.png
+- Assets/Game/GameAssets/Sprites/gui/Settings/bg_i6_game_gui_Settings_icon_roll.png
+- Assets/Game/GameAssets/Sprites/tutorial_ft/bg_i6_game_gui_tutorial_ft_arrow.png
+- Assets/Game/GameAssets/Sprites/gui/gui_in_game/bg_i6_game_gui_double_button_done_icon.png
+- Assets/Game/GameAssets/Sprites/gui/game_gui/bg_i6_game_gui_side_time.jpg
+- Assets/Game/GameAssets/Sprites/gui/chat/bg_i6_game_gui_chat_bubble.png
+- Assets/Game/GameAssets/Sprites/gui/surrender/bg_i6_game_gui_surrender_icon.png
+- Assets/Game/GameAssets/Sprites/gui/Settings/bg_i6_game_gui_Settings_icon_music.png
+- Assets/Game/GameAssets/Prefabs/LuisPrefabs/LuisAnimation1.prefab
+- Assets/Game/GameAssets/Sprites/gui/bg_i6_game_gui_Settings_connection_02.png
+- Assets/Game/GameAssets/Fonts/Linux Libertine Semibold.ttf
+- Assets/Game/GameAssets/Prefabs/GameStoreItem.prefab
+Dependencies:
+- C:/Projects/Backgammon3/AssetBundles/iOS/storeitems
+- C:/Projects/Backgammon3/AssetBundles/iOS/board_52

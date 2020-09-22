@@ -1,0 +1,61 @@
+
+Inside the LoginAck or the GetServerDetails send the parameter "MessagesEvents" that contains a list of Dictionary<string, object> with the keys "MessageType", "Id" and "Parameters".
+The "MessageType" can be "PayPalCashIn","SmallMessage", "CustomMessage", "StandartPopup".
+The "Id" is what the server get back through an "UpdateMessageEvent" of the websocket when the user have seen the popup.
+The "Parameters" contains a Dictionary<string, object> with the infos related to the MessageType.
+
+
+For the MessageType "SmallMessage", The "Parameters" should contain "Title", "Texts", "ButtonText", "ActionType" and "ActionString"
+	"Title" is a string and the title of the popup ("Welcome" by default)
+	"Texts" is a List<string> and the lines of texts in the body of the popup
+	"ButtonText" is a string and the message on the popup's button ("OK" by default)
+	"ActionType" should be "OpenUrl","OpenPage","OpenUpdatePage","OpenTermsOfUse","OpenPrivacyPolicy","ChangePref" or "CloseApp"
+	"ActionString" should contains an URL if the "Action" is "OpenUrl", a PageID if the "Action" is "OpenPage" or a key of the PlayerPref  if the "Action" is "ChangePref"
+
+	Exemple :
+	"MessagesEvents":[{"MessageType":"SmallMessage","Id":"HaveSeenGoogle","Parameters":{"Title":"Use Google!", "Texts":["The Best Website","After lmgtfy.com"],"ButtonText":"Download APK","ActionType":"OpenUrl","ActionString":"https://www.google.fr/"}}]
+
+
+For the MessageType "CustomMessage", The "Parameters" should contain "Closeable", "Static", "Headline", "Picture","TextElements", and "ButtonElements"
+	"Closeable" is a boolean that displays a close button on the Popup or not
+	"Static" is a boolean that prevents the Popup's button to switch to next Popup
+	"Headline" is a TextData dictionnary<string,object> for the title of the popup ("Size" of 47 by default)
+	"Picture" is an ImageData dictionnary<string,object> for the Picture of the popup
+	"TextElements" is a list of TextDatas dictionnary<string,object> for every lines in the body of the popup
+	"ButtonElements" is a list of ButtonDatas dictionnary<string,object> for every buttons of the popup
+
+		A ColorData is a string that contains floats values of a color's layers in this format : "[Red Value],[Green Value],[Blue Value]" or "[Red Value],[Green Value],[Blue Value],[Alpha Value]". 			exemple : "0.1,0.5,0.8" or "0.1,0.5,0.8,1"
+
+		A TextData dictionnary<string,object> should contain the keys "Text", "Size", "LineSpacing" and "Color"
+			"Text" is a string.
+			"Size" is an int and the size of the text. (30 by default)
+			"LineSpacing" is an int and the space between lines.
+			"Color" is a ColorData string for the color of the text
+
+		An ImageData dictionnary<string,object> should contain the keys "URL", "GradientColor1" and "GradientColor2"
+			"URL" the url where the picture is downloaded from.
+			"GradientColor1" is a ColorData string for the top value of the vertical Gradient on the Image. (white by default)
+			"GradientColor2" is a ColorData string for the bottom value of the vertical Gradient on the Image. (white by default)
+
+		An ButtonData dictionnary<string,object> should contain the keys "ActionType", "ActionString", "Text" and "Image"
+			"ActionType" should be "OpenUrl","OpenPage","OpenUpdatePage","OpenTermsOfUse","OpenPrivacyPolicy","ChangePref" or "CloseApp"
+			"ActionString" should contains an URL if the "Action" is "OpenUrl", a PageID if the "Action" is "OpenPage" or a key of the PlayerPref  if the "Action" is "ChangePref"
+			"Text" is a TextData dictionnary<string,object> for the title of the popup ("Size" is 40 and the "Text" is "OK" by default)
+			"Image" is an ImageData dictionnary<string,object> for the background of the button.
+
+	Exemple :
+	"MessagesEvents":[{"MessageType":"CustomMessage","Parameters":{"Headline":{"Text":"UPDATE","Size":47},"Picture":{"URL":"https://securegameserver.gamytechapis.com:446/BackgammonForFriends.com/Data/update_popup.jpg"},"TextElements":[{"Text":"NEW VERSION AVAILABLE !","Size":75,"LineSpacing":0.8},{"Text":"Please update your version","Size":40,"LineSpacing":0.8}],"ButtonElements":[{"ActionType":"OpenUpdatePage","Text":{"Text":"Update","Size":40,"Color":"0.19,0.19,0.19"},"Image":{"GradientColor2":"0.5,0.5,0.5"}}]}}]
+
+
+For the MessageType "StandartPopup", The "Parameters" should contain "ID"
+	"ID"  should be "BannedAccount","DeletedAccount","FrozenAccount","DailyBonus1","DailyBonus2","DailyBonus3", "DailyBonus4", "DailyBonus5", "Maintenance", "Update", "IdentityRequest" or "IdentityConfirm"
+	
+	Exemple :
+	"MessagesEvents":[{"MessageType":"StandartPopup","Id":"HaveSeenGoogle","Parameters":{"ID":"Update"}}]
+
+
+For the MessageType "WidgetPopup", The "Parameters" should contain "ID"
+	"ID"  should be "RatePopup" or "FriendsInvite"
+	
+	Exemple :
+	"MessagesEvents":[{"MessageType":"WidgetPopup","Parameters":{"ID":"RatePopup"}}]

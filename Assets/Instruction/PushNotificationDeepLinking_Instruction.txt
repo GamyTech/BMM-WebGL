@@ -1,0 +1,14 @@
+On the PushWoosh website, when you set the notification setting, in the action tab, past all information about the deep linking actions as Custom Data.
+The Custom Data should be a dictionnary crypted in a Json with the keys : "ActionType", "ActionString", "AdditionalData" (optionnal).
+
+"ActionType" can have the values "OpenPage", "OpenMessage" or "OpenUrl".
+
+If "ActionType" has the value "OpenPage", the "ActionString" should be a PageId. example:
+{"ActionType":"OpenPage","ActionString":"Cashin"}
+
+If "ActionType" has the value "OpenUrl", the "ActionString" should be the URL. example:
+{"ActionType":"OpenUrl","ActionString":"http://www.backgammon4money.com/"}
+
+If "ActionType" has the value "OpenMessage", the "ActionString" should have all the message instruction just like the regular Message (ref: MessageEvents_instruction).
+example:
+{"ActionType":"OpenMessage","ActionString":{"MessageType":"CustomMessage","Parameters":{"Static":true,"Headline":{"Text":"UPDATE","Size":47},"Picture":{"URL":"https://securegameserver.gamytechapis.com:446/BackgammonForFriends.com/Data/update_popup.jpg"},"TextElements":[{"Text":"NEW VERSION AVAILABLE !","Size":75,"LineSpacing":0.8},{"Text":"Please update your version","Size":40,"LineSpacing":0.8}],"ButtonElements":[{"ActionType":"OpenUpdatePage","Text":{"Text":"Update","Size":40,"Color":"0.19,0.19,0.19"},"Image":{"GradientColor2":"0.5,0.5,0.5"}}]}}}

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3100131249
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be54b1ac30f868f031391e02ac8da9e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2292a21a5ee35b9a01eef25249fe44e8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa003882bb1a5ee4595a9838a93a220a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Menu/MenuAssets/GameSpecific/GameSpecific_backgammonforfriends.asset
+Dependencies: []

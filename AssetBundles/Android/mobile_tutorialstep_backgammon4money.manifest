@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2735632195
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 710164b619e0da298e8dfda94a0795d2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 93896f1abeba98fed6451dc80821073f
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 4bbee76e49fb6804c8476cfb2b4460c5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Menu/MenuAssets/TutorialStep/Step_Mobile_backgammon4money/7.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_Mobile_backgammon4money/Visit2.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_Mobile_backgammon4money/10.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_Mobile_backgammon4money/5.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_Mobile_backgammon4money/Visit3.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_Mobile_backgammon4money/13.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_Mobile_backgammon4money/2.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_Mobile_backgammon4money/11.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_Mobile_backgammon4money/8.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_Mobile_backgammon4money/3.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_Mobile_backgammon4money/9.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_Mobile_backgammon4money/12.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_Mobile_backgammon4money/1.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_Mobile_backgammon4money/Visit1.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_Mobile_backgammon4money/4.asset
+- Assets/Menu/MenuAssets/TutorialStep/Step_Mobile_backgammon4money/6.asset
+Dependencies: []
