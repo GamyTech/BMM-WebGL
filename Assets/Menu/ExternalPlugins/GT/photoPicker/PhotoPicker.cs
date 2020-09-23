@@ -17,8 +17,8 @@ public class PhotoPicker
     [DllImport("__Internal")]
     private static extern void _TakePicture(string filename, string callbackFuncName, string objectName);
 #elif UNITY_WEBGL
-   /* [DllImport("__Internal")]
-    private static extern void _SelectPicture(string objectName, string callbackFuncName);*/
+    [DllImport("__Internal")]
+    private static extern void getImageFromBrowser(string objectName, string callbackFuncName);
 #endif
 
     private static PhotoPicker m_instance;
@@ -63,7 +63,7 @@ public class PhotoPicker
     public bool OpenGallery(Action<CameraResult> callback)
     {
         Callback = callback;
-#if UNITY_STANDALONE
+#if UNITY_EDITOR || UNITY_STANDALONE
         ExtensionFilter[] extensions = new ExtensionFilter[] { new ExtensionFilter("Image Files", "png", "jpg", "jpeg") };
         StandaloneFileBrowser.OpenFilePanelAsync("Select Your Picture", "", extensions, false, s => { HandlePluginCallback(s.Length > 0 ? s[0] : ""); });
         return true;
@@ -74,7 +74,7 @@ public class PhotoPicker
         _SelectPicture("picture.png", "PhotoPicker_ImageCallback","GTPluginBridge");
         return true;
 #elif UNITY_WEBGL
-        /*_SelectPicture("GTPluginBridge","PhotoPicker_ImageCallback");*/
+        getImageFromBrowser("GTPluginBridge","PhotoPicker_ImageCallback");
         return true;
 #else
         return false;
