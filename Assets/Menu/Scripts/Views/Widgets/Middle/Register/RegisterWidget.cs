@@ -42,11 +42,17 @@ public class RegisterWidget : Widget
 
     public override void DisableWidget()
     {
-        LoadingController.Instance.HidePageLoading();
-        WebSocketKit.Instance.AckEvents[RequestId.RegisterUser] -= OnRegister;
+        if (LoadingController.Instance != null)
+        {
+            LoadingController.Instance.HidePageLoading();
+            WebSocketKit.Instance.AckEvents[RequestId.RegisterUser] -= OnRegister;
+        }
 
 #if UNITY_WEBGL
-        TermsButton.UnregisterCallbackOnPressedDown();
+        if (TermsButton != null)
+        {
+            TermsButton.UnregisterCallbackOnPressedDown();
+        }
 #endif
 
         base.DisableWidget();
