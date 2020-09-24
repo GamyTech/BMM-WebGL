@@ -17,9 +17,9 @@ public class GTPluginBridge : MonoBehaviour {
     {
         PhotoPicker.Instance.HandlePluginCallback(param);
     }
-#endregion photopicker
+    #endregion photopicker
 
-#region paypal
+    #region paypal
     public void PayPal_Callback(string msg)
     {
         PayPalKit.HandlePluginCallback(msg);

@@ -154,6 +154,13 @@ namespace GT.Database
             AssetController.Instance.InitializeAssetBundles();
 
             yield return w;
+            if (!string.IsNullOrEmpty(w.error))
+            {
+                Debug.Log("Server reques error:");
+                Debug.Log(w.error);
+                Debug.Log("Server reques response headers:");
+                Debug.Log(w.responseHeaders);
+            }
             GlobalServerDetailsResponse response = new GlobalServerDetailsResponse(w);
             Debug.Log("<color=red>Details Response: " + response + "</color>");
             w.Dispose();
@@ -162,8 +169,15 @@ namespace GT.Database
             {
                 w = new WWW(NetworkController.Instance.SecurityGlobalServer, form);
                 yield return w;
+                if (!string.IsNullOrEmpty(w.error))
+                {
+                    Debug.Log("Second try: Server reques error:");
+                    Debug.Log(w.error);
+                    Debug.Log("Second try: Server reques response headers:");
+                    Debug.Log(w.responseHeaders);
+                }
                 response = new GlobalServerDetailsResponse(w);
-                Debug.Log("<color=red>secend Try Response: " + response + "</color>");
+                Debug.Log("<color=red>Second Response Try: " + response + "</color>");
                 w.Dispose();
             }
 
@@ -171,6 +185,9 @@ namespace GT.Database
                 SaveDetails(response, callback);
             else
             {
+                Debug.Log("The response from server was not 'OK': " + response.responseCode);
+                Debug.Log(response);
+
                 TrackingKit.InitTracking();
                 PopupController.Instance.ShowSmallPopup("Failed to connect, Try again.", new SmallPopupButton("Try Again", SceneController.Instance.RestartApp));
             }

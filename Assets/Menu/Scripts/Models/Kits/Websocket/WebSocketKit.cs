@@ -153,7 +153,10 @@ namespace GT.Websocket
         public void OpenConnection(string ip, string hostIp)
         {
             if (webSocket != null && webSocket.IsOpen)
+            {
+                Debug.Log("Closing a WebSocket connection to create a new one");
                 webSocket.Close();
+            }
 
             string identifier = Json.Serialize(new Dictionary<string, object>() {
                 { "DeviceId", NetworkController.DeviceId },
@@ -270,13 +273,19 @@ namespace GT.Websocket
         }
         private void OnClosed(WebSocket webSocket, ushort code, string message)
         {
-            Debug.Log("WebSocket OnClosed code: " + code + " message: " + message + " isOpen: " + webSocket.IsOpen);
+            Debug.Log("WebSocket OnClosed code: " + code + ", message: " + message + ", isOpen: " + webSocket.IsOpen);
             if (OnCloseEvent != null)
                 OnCloseEvent(code, message);
         }
         private void OnError(WebSocket webSocket, Exception ex)
         {
-            Debug.Log("WebSocket OnError " + ex ?? ex.Message);
+            if (ex != null)
+            {
+                Debug.Log("WebSocket OnError: " + ex.Message);
+                Debug.Log("WebSocket OnError StackTrace: " + ex.StackTrace);
+                Debug.Log("WebSocket OnError Source: " + ex.Source);
+                Debug.Log("WebSocket OnError Data: " + ex.Data);
+            }
             this.webSocket.Close();
             if (OnErrorEvent != null && ex != null)
                 OnErrorEvent(ex.Message);

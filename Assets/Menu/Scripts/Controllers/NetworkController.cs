@@ -4,6 +4,8 @@ using System.Collections.Generic;
 using UnityEngine.Events;
 using System.Threading;
 using System;
+using System.Runtime.InteropServices;
+using System.Collections;
 
 public class NetworkController : MonoBehaviour
 {
@@ -101,6 +103,7 @@ public class NetworkController : MonoBehaviour
     {
         WSResponseCode errorCode;
         Utils.TryParseEnum(code, out errorCode);
+        Debug.Log("WebSocket connection was closed. (That might be not an error) Error code (if any): " + errorCode + ", message (if any): " + message);
         switch (errorCode)
         {
             case WSResponseCode.Disconnected:
@@ -131,6 +134,8 @@ public class NetworkController : MonoBehaviour
                 return;
             }
 
+            Debug.Log("WebSocket error: " + error);
+
             WebsoketDisconnectPopup();
             StopKeepAlive();
         }));
@@ -139,11 +144,63 @@ public class NetworkController : MonoBehaviour
 
     #region Public Game Methods
 
+    private string globalLink = "";
+    private string wsLink = "";
+
     public string GetGlobalServerLink()
     {
+        if (globalLink != "")
+        {
+            return globalLink;
+        }
         return Connection == ServerType.Development ?
                 DevelopmentGlobalServer :
                 GlobalServer;
+    }
+
+    public delegate void LinkLoadingCallback();
+    public event LinkLoadingCallback OnLinksLoaded;
+    public void GetGlobalServerLinkAsync()
+    {
+#if UNITY_WEBGL && !UNITY_EDITOR
+        StartCoroutine(Check());
+#else
+        if (OnLinksLoaded != null)
+        {
+            OnLinksLoaded();
+        }
+#endif
+    }
+
+    private IEnumerator Check()
+    {
+        WWW w = new WWW("/links.txt");
+        yield return w;
+        if (w.error != null)
+        {
+            Debug.Log("Error .. " + w.error);
+        }
+        else
+        {
+            string longStringFromFile = w.text;
+            List<string> lines = new List<string>(
+                longStringFromFile
+                .Split(new string[] { "\r", "\n" },
+                StringSplitOptions.RemoveEmptyEntries));
+
+            if (lines.Count > 0)
+            {
+                globalLink = lines[0];
+            }
+            if (lines.Count > 1)
+            {
+                wsLink = lines[1];
+            }
+        }
+        if (OnLinksLoaded != null)
+        {
+            OnLinksLoaded();
+        }
     }
 
     public void Connect()
@@ -169,6 +226,10 @@ public class NetworkController : MonoBehaviour
             case ServerType.WebGL:
                 webSocketURL = WebGLURL;
                 break;
+        }
+        if (wsLink != "")
+        {
+            webSocketURL = wsLink;
         }
         WebSocketKit.Instance.OpenConnection(webSocketURL, hostIp);
     }
