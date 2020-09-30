@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8cecbf5642b62224da1d4de8fae5f323
+guid: 9d3c2785151ccff468fa2327e82b4d88
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -8,13 +8,12 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontName: GT Helvetica Neue Bd
+  fontName: Arial
   fontNames:
-  - 'GT Helvetica Neue Bd
-
-    Arial'
+  - Arial
   fallbackFontReferences:
-  - {fileID: 12800000, guid: 9d3c2785151ccff468fa2327e82b4d88, type: 3}
+  - {fileID: 12800000, guid: 8cb2b10082a61da41bdd0e773f954bc8, type: 3}
+  - {fileID: 12800000, guid: 8076b4de386e8434c8ff3ed6636d2ca8, type: 3}
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1

@@ -227,10 +227,13 @@ public class NetworkController : MonoBehaviour
                 webSocketURL = WebGLURL;
                 break;
         }
+        Debug.Log("WS link from stage: " + webSocketURL);
         if (wsLink != "")
         {
             webSocketURL = wsLink;
+            Debug.Log("WS link from file: " + webSocketURL);
         }
+        Debug.Log("WS link to connect: " + webSocketURL);
         WebSocketKit.Instance.OpenConnection(webSocketURL, hostIp);
     }
 

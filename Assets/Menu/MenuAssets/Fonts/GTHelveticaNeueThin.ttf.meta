@@ -1,19 +1,25 @@
 fileFormatVersion: 2
 guid: a8a152da0255aad4895141a061b4dee3
-timeCreated: 1464854375
-licenseType: Free
 TrueTypeFontImporter:
-  serializedVersion: 3
+  externalObjects: {}
+  serializedVersion: 4
   fontSize: 16
   forceTextureCase: -2
-  characterSpacing: 1
-  characterPadding: 0
+  characterSpacing: 0
+  characterPadding: 1
   includeFontData: 1
-  fontNames: []
-  fallbackFontReferences: []
+  fontName: GT Helvetica Neue Th
+  fontNames:
+  - 'GT Helvetica Neue Th
+
+    Arial'
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9d3c2785151ccff468fa2327e82b4d88, type: 3}
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
   userData: 
   assetBundleName: 
   assetBundleVariant: 

@@ -159,7 +159,7 @@ namespace GT.Database
                 Debug.Log("Server reques error:");
                 Debug.Log(w.error);
                 Debug.Log("Server reques response headers:");
-                Debug.Log(w.responseHeaders);
+                Debug.Log(w.responseHeaders.Display());
             }
             GlobalServerDetailsResponse response = new GlobalServerDetailsResponse(w);
             Debug.Log("<color=red>Details Response: " + response + "</color>");
