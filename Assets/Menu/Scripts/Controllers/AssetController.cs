@@ -175,7 +175,10 @@ public class AssetController : MonoBehaviour
         ResourceRequest request = Resources.LoadAsync<TutorialStepList>("Steps_" + AppInformation.CurrentPlatformDesign + "_" + AppInformation.GameIDToLower);
         yield return request;
         TutorialStepList tutos = request.asset as TutorialStepList;
-        WelcomeTutorialSteps = tutos.WelcomeSteps;
+        if (tutos != null)
+        {
+            WelcomeTutorialSteps = tutos.WelcomeSteps;
+        }
     }
 
     private void InitBoards()
