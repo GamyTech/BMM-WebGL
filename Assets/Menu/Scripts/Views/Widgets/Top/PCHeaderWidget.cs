@@ -89,7 +89,10 @@ public class PCHeaderWidget : Widget
     public override void DisableWidget()
     {
         SettingsController.OnScreenSizeChanged -= SettingsController_OnScreenSizeChanged;
-        NotificationSystemController.Instance.UnregisterForNotification(NotificationList, OnBonusChanged);
+        if (NotificationSystemController.Instance != null)
+        {
+            NotificationSystemController.Instance.UnregisterForNotification(NotificationList, OnBonusChanged);
+        }
 
         if(UnregisterUserAction != null)
             UnregisterUserAction();

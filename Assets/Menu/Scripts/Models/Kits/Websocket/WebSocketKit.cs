@@ -162,7 +162,8 @@ namespace GT.Websocket
                 { "DeviceId", NetworkController.DeviceId },
                 { "GameId", AppInformation.GAME_ID },
                 { "Ip", hostIp },
-                { "OS", Application.platform }
+                { "OS", Application.platform },
+                { "ClientId", NetworkController.Instance.ClientId }
             });
             string uri = ip + identifier;
             Debug.Log("URI " + uri);

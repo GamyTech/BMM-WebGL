@@ -14,7 +14,6 @@ public class NetworkController : MonoBehaviour
         Local,
         Development,
         Production,
-        WebGL,
     }
 
     private static NetworkController m_instance;
@@ -33,11 +32,12 @@ public class NetworkController : MonoBehaviour
     public string DevelopmentURL;
     public string ProductionURL;
     public string LocalURL;
-    public string WebGLURL;
 
     public string overrideDeviceId;
 
     private bool isReconnecting;
+
+    public string ClientId;
 
     private static string m_deviceID;
     public static string DeviceId
@@ -180,9 +180,6 @@ public class NetworkController : MonoBehaviour
                 break;
             case ServerType.GlobalServer:
                 webSocketURL = serverIp;
-                break;
-            case ServerType.WebGL:
-                webSocketURL = WebGLURL;
                 break;
         }
         Debug.Log("WS link to connect: " + webSocketURL);

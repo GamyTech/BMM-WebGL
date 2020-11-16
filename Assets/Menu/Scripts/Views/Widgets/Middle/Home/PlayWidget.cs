@@ -69,15 +69,17 @@ public class PlayWidget : Widget
     public override void DisableWidget()
     {
         if (TourneyController.Instance != null)
+        {
             TourneyController.Instance.OnTourneyListChanged -= GTUser_OnTourneyListChanged;
 
-        SavedUser user = SavedUsers.LoadOrCreateUserFromFile(UserController.Instance.gtUser.Id);
-        user.LastSelectedGameType = (int)currentType;
-        user.LastSelectedCategory = CurrentCategoryIndex;
-        SavedUsers.SaveUserToFile(user);
+            SavedUser user = SavedUsers.LoadOrCreateUserFromFile(UserController.Instance.gtUser.Id);
+            user.LastSelectedGameType = (int)currentType;
+            user.LastSelectedCategory = CurrentCategoryIndex;
+            SavedUsers.SaveUserToFile(user);
 
-        if (currentType == GameType.Tourneys)
-            UserController.Instance.StopListenToTourneysEvents();
+            if (currentType == GameType.Tourneys)
+                UserController.Instance.StopListenToTourneysEvents();
+        }
 
         base.DisableWidget();
     }
