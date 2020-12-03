@@ -22,6 +22,7 @@ public class AdvertisementWidget : Widget
 
     private void SetAds(List<AdData> ads)
     {
+        button.gameObject.SetActive(!NetworkController.Instance.IsClientGame());
         adsList = ads;
         if (adsList == null)
         {
@@ -68,7 +69,7 @@ public class AdvertisementWidget : Widget
     private void ShowAd(AdData ad)
     {
         if (button.gameObject.activeSelf == false)
-            button.gameObject.SetActive(true);
+            button.gameObject.SetActive(!NetworkController.Instance.IsClientGame());
 
         text.text = Utils.LocalizeTerm(ad.Text);
         image.sprite = ad.ImageData.Sprite;

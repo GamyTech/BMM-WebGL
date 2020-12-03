@@ -143,6 +143,10 @@ public class NetworkController : MonoBehaviour
     #endregion Connection Events
 
     #region Public Game Methods
+    public bool IsClientGame()
+    {
+        return !string.IsNullOrEmpty(ClientId) && ClientId != "gamytech-client-id";
+    }
 
     public string GetGlobalServerLink()
     {

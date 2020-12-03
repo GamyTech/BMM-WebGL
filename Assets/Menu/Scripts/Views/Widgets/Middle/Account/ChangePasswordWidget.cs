@@ -31,6 +31,11 @@ public class ChangePasswordWidget : Widget
         SetErrorText();
         ResetFields();
         WebSocketKit.Instance.RegisterForAPIVariableEvent(APIResponseVariable.SetPassword, SetPassword);
+
+        if (NetworkController.Instance.IsClientGame())
+        {
+            gameObject.SetActive(false);
+        }
     }
 
     public override void DisableWidget()

@@ -28,10 +28,12 @@ public class PCNavigation : MonoBehaviour
         Content.SetActive(true);
         PageController.OnPageChanged += PageController_OnPageChanged;
 
-        if(AppInformation.GAME_ID == Enums.GameID.BackgammonForFriends)
+        if(AppInformation.GAME_ID == Enums.GameID.BackgammonForFriends || 
+            NetworkController.Instance.IsClientGame())
         {
             Cashier.gameObject.SetActive(false);
             Withdraw.gameObject.SetActive(false);
+            Challenge.gameObject.SetActive(AppInformation.GAME_ID == Enums.GameID.BackgammonForFriends);
         }
         else
             Challenge.gameObject.SetActive(false);

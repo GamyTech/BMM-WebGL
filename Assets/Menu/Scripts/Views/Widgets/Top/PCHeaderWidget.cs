@@ -13,6 +13,7 @@ public class PCHeaderWidget : Widget
     const char BACK_CHAR = ']';
 
     public Button BackButton;
+    public Button Cashier;
     public Image CashierButtonImage;
     public Sprite CashierButtonNormal;
     public Sprite CashierButtonEvent;
@@ -54,6 +55,10 @@ public class PCHeaderWidget : Widget
         canvas = this.GetComponentInParent<Canvas>();
         halfAdButtonWidth = AdButton.preferredWidth / 2.0f;
 
+        if (NetworkController.Instance.IsClientGame())
+        {
+            Cashier.gameObject.SetActive(false);
+        }
         if (AppInformation.GAME_ID == Enums.GameID.BackgammonForFriends)
         {
             CashierButtonText.text = "Buy Coins";
@@ -268,6 +273,7 @@ public class PCHeaderWidget : Widget
 
     public void CashierButton()
     {
+        if (NetworkController.Instance.IsClientGame()) return;
         if (AppInformation.GAME_ID == Enums.GameID.BackgammonForFriends)
             PageController.Instance.ChangePage(Enums.PageId.InAppPurchase);
         else
