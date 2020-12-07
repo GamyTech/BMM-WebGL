@@ -153,6 +153,8 @@ public static class Enums
         CreditCard = 44,
 
         TourneyProgress = 45,
+
+        WaitingForLogin = 46,
     }
     #endregion Pages
 
@@ -305,6 +307,8 @@ public static class Enums
         //SMS
 
         TourneyProgress = 75,
+
+        WaitingForLogin = 82,
     }
     #endregion Widgets 
 

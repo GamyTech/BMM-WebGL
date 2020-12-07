@@ -155,16 +155,6 @@ public class NetworkController : MonoBehaviour
                 GlobalServer;
     }
 
-    public delegate void LinkLoadingCallback();
-    public event LinkLoadingCallback OnLinksLoaded;
-    public void GetGlobalServerLinkAsync()
-    {
-        if (OnLinksLoaded != null)
-        {
-            OnLinksLoaded();
-        }
-    }
-
     public void Connect()
     { 
         if (WidgetController.Instance != null)

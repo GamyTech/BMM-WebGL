@@ -29,8 +29,7 @@ public class MainSceneController : MonoBehaviour
         Utils.ChangeOrientation(true);
         Application.runInBackground = true;
 
-        NetworkController.Instance.OnLinksLoaded += NetworkController_OnLinksLoaded;
-        NetworkController.Instance.GetGlobalServerLinkAsync();
+        StartCoroutine(DatabaseKit.GetGlobalServerDetails(StartWebSocketConection));
     }
     #endregion Unity Methods
 
@@ -41,11 +40,4 @@ public class MainSceneController : MonoBehaviour
         NetworkController.Instance.Connect();
     }
     #endregion Private Methods
-
-    #region Events
-    private void NetworkController_OnLinksLoaded()
-    {
-        StartCoroutine(DatabaseKit.GetGlobalServerDetails(StartWebSocketConection));
-    }
-    #endregion Events
 }

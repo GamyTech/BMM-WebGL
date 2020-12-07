@@ -33,7 +33,12 @@ public class MenuSceneController : MonoBehaviour
     public static void GoToStartingPage()
     {
         if (UserController.Instance.gtUser == null)
-            PageController.Instance.ChangePage(Enums.PageId.Register);
+        {
+            if (NetworkController.Instance.IsClientGame())
+                PageController.Instance.ChangePage(Enums.PageId.WaitingForLogin);
+            else 
+                PageController.Instance.ChangePage(Enums.PageId.Register);
+        }
         else if (UserController.Instance.WatchedHistoryMatch != null)
         {
             PageController.OnPageChanged += OpenViewedMatchData;

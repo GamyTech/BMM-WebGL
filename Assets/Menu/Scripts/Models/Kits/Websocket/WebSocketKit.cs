@@ -158,14 +158,21 @@ namespace GT.Websocket
                 webSocket.Close();
             }
 
-            string identifier = Json.Serialize(new Dictionary<string, object>() {
+            Dictionary<string, object> identifier = new Dictionary<string, object>() {
                 { "DeviceId", NetworkController.DeviceId },
                 { "GameId", AppInformation.GAME_ID },
                 { "Ip", hostIp },
                 { "OS", Application.platform },
                 { "ClientId", NetworkController.Instance.ClientId }
-            });
-            string uri = ip + identifier;
+            };
+
+            if (URLParameters.GetSearchParameters().ContainsKey("token"))
+            {
+                string token = URLParameters.GetSearchParameters()["token"];
+                identifier["Token"] = token;
+            }
+
+            string uri = ip + Json.Serialize(identifier);
             Debug.Log("URI " + uri);
             webSocket = new WebSocket(new Uri(uri), ip, "");
 
