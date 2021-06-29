@@ -68,6 +68,7 @@ public class NetworkController : MonoBehaviour
 
     void OnEnable()
     {
+          Debug.Log("Socket Opened");
         WebSocketKit.Instance.OnOpenEvent += WebSocketKit_OnOpenEvent;
         WebSocketKit.Instance.OnCloseEvent += WebSocketKit_OnCloseEvent;
         WebSocketKit.Instance.OnErrorEvent += WebSocketKit_OnError;   
@@ -75,6 +76,7 @@ public class NetworkController : MonoBehaviour
 
     void OnDisable()
     {
+        Debug.Log("Socket Closed");
         WebSocketKit.Instance.OnOpenEvent -= WebSocketKit_OnOpenEvent;
         WebSocketKit.Instance.OnCloseEvent -= WebSocketKit_OnCloseEvent;
         WebSocketKit.Instance.OnErrorEvent -= WebSocketKit_OnError;

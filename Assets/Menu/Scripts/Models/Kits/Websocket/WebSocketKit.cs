@@ -275,7 +275,7 @@ namespace GT.Websocket
         #region WebSocket Events
         private void OnOpen(WebSocket webSocket)
         {
-            Debug.Log("WebSocket OnOpen isOpen: " + webSocket.IsOpen);
+            Debug.Log("<color=white>WebSocket OnOpen isOpen: </color>" + webSocket.IsOpen);
             if (OnOpenEvent != null)
                 OnOpenEvent();
         }
