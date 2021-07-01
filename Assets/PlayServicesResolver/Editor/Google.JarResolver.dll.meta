@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 97738b29c18143b0a469277b09d35889
+guid: 98a01ccbf9889c84da26703e1724e70f
 labels:
 - gvh
 - gvh_targets-editor
@@ -9,8 +9,11 @@ PluginImporter:
   serializedVersion: 2
   iconMap: {}
   executionOrder: {}
+  defineConstraints: []
   isPreloaded: 0
   isOverridable: 0
+  isExplicitlyReferenced: 0
+  validateReferences: 1
   platformData:
   - first:
       Any: 
