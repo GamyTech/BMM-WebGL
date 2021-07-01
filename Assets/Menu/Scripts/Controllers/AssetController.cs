@@ -94,7 +94,7 @@ public class AssetController : MonoBehaviour
     public void InitializeAssetBundles()
     {
         if (UseAssetsBundle)
-            StartCoroutine(Utils.WaitForCoroutine(InitAssetsFromWeb, () => Debug.Log("-------------------- Assets loaded --------------------")));
+            StartCoroutine(Utils.WaitForCoroutine(InitAssetsFromWeb, () => Debug.Log("-------------------- Assets Bundle loaded --------------------")));
         else
             StartCoroutine(Utils.WaitForCoroutine(InitAssetsFromRessources, () => Debug.Log("-------------------- Assets loaded --------------------")));
     }
@@ -189,7 +189,7 @@ public class AssetController : MonoBehaviour
     }
 
     private void InitWidgets()
-    {
+    {       
         Widget[] prefabs = Resources.LoadAll<Widget>("Widgets_Prefabs/");
         for (int i = 0; i < prefabs.Length; i++)
         {
@@ -197,7 +197,9 @@ public class AssetController : MonoBehaviour
             {
                 Enums.WidgetId id;
                 if (Utils.TryParseEnum(prefabs[i].widgetId, out id))
+                {
                     widgetsPrefabsDictionary.AddOrOverrideValue(id, prefabs[i]);
+                }
             }
         }
     }

@@ -45,9 +45,12 @@ namespace GT.User
         public static SavedUser LoadOrCreateUserFromFile(string id)
         {
             SavedUser user = null;
-
-            if(Instance.UsersDictionary.TryGetValue(id, out user))
+            if (string.IsNullOrEmpty(id)) return user;
+            
+            if (Instance.UsersDictionary.TryGetValue(id, out user))
+            { 
                 user.CleanBrokenVaraiable();
+            }
             else
             {
                 user = new SavedUser(id);

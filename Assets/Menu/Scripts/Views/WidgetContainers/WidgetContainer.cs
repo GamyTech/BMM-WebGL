@@ -69,10 +69,13 @@ public abstract class WidgetContainer : UIBehaviour
     {
         for (int i = 0; i < ActiveWidgets.Count; i++)
         {
-            ActiveWidgets[i].DisableWidget();
-            Destroy(ActiveWidgets[i].gameObject);
-            ActiveWidgets.Remove(ActiveWidgets[i]);
+            if (ActiveWidgets[i] != null)
+            {
+                ActiveWidgets[i].DisableWidget();
+                Destroy(ActiveWidgets[i].gameObject);
+            }
         }
+        ActiveWidgets.Clear();
     }
 
     public void SetSizeToFitContent(bool isSizeToFitContent)

@@ -31,7 +31,6 @@ public class DepositWidget : Widget
         Grid.constraintCount = 3;
         Grid.cellSize = new Vector2(240.0f, 162.0f);
 #endif
-
         UserController.Instance.gtUser.OnDepositInfoChanged += GtUser_OnDepositInfoChanged;
 
         tempPromoCode = string.Empty;

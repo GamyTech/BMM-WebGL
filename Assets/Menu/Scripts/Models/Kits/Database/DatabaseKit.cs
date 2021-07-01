@@ -8,7 +8,6 @@ using GT.Encryption;
 
 namespace GT.Database
 {
-    
     internal enum ServerRequestKey
     {
         Service,

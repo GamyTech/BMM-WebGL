@@ -78,6 +78,7 @@ public class PageController : MonoBehaviour
     /// <param name="page"></param>
     public void ChangePage(Enums.PageId page)
     {
+        Debug.Log("<color=blue> ChangePage</color> " + page);
         if (CurrentPage != null && CurrentPage.ID == page)
         {
             Debug.LogWarning("State is already " + CurrentPage.ID);

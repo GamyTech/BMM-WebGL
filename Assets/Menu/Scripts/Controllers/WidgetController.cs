@@ -103,11 +103,13 @@ public class WidgetController : MonoBehaviour
     {
         for (int i = 0; i < activatedWidgets.Count; i++)
         {
-            if (activatedWidgets[i] == null) continue;
             try
             {
-                activatedWidgets[i].DisableWidget();
-                FreeWidgetGameobject(activatedWidgets[i]);
+                if (activatedWidgets[i] != null)
+                {
+                    activatedWidgets[i].DisableWidget();
+                    FreeWidgetGameobject(activatedWidgets[i]);
+                }
             }
             catch (Exception e)
             {

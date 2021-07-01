@@ -163,9 +163,12 @@ namespace GT.Websocket
                 { "GameId", AppInformation.GAME_ID },
                 { "Ip", hostIp },
                 { "OS", Application.platform },
-                { "ClientId", NetworkController.Instance.ClientId }
             };
 
+            if (!string.IsNullOrEmpty(NetworkController.Instance.ClientId))
+            {
+                identifier["ClientId"] = NetworkController.Instance.ClientId;
+            }
             if (URLParameters.GetSearchParameters().ContainsKey("token"))
             {
                 string token = URLParameters.GetSearchParameters()["token"];
@@ -275,7 +278,7 @@ namespace GT.Websocket
         #region WebSocket Events
         private void OnOpen(WebSocket webSocket)
         {
-            Debug.Log("<color=white>WebSocket OnOpen isOpen: </color>" + webSocket.IsOpen);
+            Debug.Log("WebSocket OnOpen isOpen: " + webSocket.IsOpen);
             if (OnOpenEvent != null)
                 OnOpenEvent();
         }

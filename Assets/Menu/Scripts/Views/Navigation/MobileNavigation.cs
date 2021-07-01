@@ -270,7 +270,7 @@ public class MobileNavigation : MonoBehaviour
 
     public void OnSupportToggle(bool isOn)
     {
-        OnToggle(isOn, Enums.PageId.ContactSupport, SupportToggle);
+        //OnToggle(isOn, Enums.PageId.ContactSupport, SupportToggle); //Dima closed
     }
     #endregion Input
 }

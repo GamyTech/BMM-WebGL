@@ -1,4 +1,5 @@
 ﻿using GT.Websocket;
+using UnityEngine;
 using UnityEngine.UI;
 
 public class WaitingForLoginWidget : Widget
@@ -9,9 +10,9 @@ public class WaitingForLoginWidget : Widget
     public override void EnableWidget()
     {
         base.EnableWidget();
-        WebSocketKit.Instance.AckEvents[RequestId.Login] += OnLoginToServer;
 
-        LoadingController.Instance.ShowPageLoading();
+        WebSocketKit.Instance.AckEvents[RequestId.Login] += OnLoginToServer;
+        WebSocketKit.Instance.SendRequest(RequestId.Login);
     }
 
     public override void DisableWidget()
@@ -26,20 +27,12 @@ public class WaitingForLoginWidget : Widget
     private void OnLoginToServer(Ack ack)
     {
         LoginAck loginAck = ack as LoginAck;
-
         LoadingController.Instance.HidePageLoading();
         switch (loginAck.Code)
         {
             case WSResponseCode.OK:
-                UserController.Instance.GamytechSignedIn(loginAck.UserResponse.CreateGTUser());
-                TutorialController.Instance.SaveTutorialProgressAsFinished();
-                TrackingKit.LoginTracker();
-
                 if (!UserController.Instance.HandelReconnectInLogin(loginAck))
                     MenuSceneController.GoToStartingPage();
-                break;
-            case WSResponseCode.Banned:
-                PopupController.Instance.ShowPopup(Enums.PopupId.BannedAccount, true);
                 break;
             default:
                 SetErrorText("Unexpected Error: " + loginAck.Code.ToString());

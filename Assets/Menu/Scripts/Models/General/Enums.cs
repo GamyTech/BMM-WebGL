@@ -162,7 +162,7 @@ public static class Enums
     /// <summary>
     /// Main Widgets
     /// </summary>
-    public enum WidgetId
+    public enum WidgetId //Dima check who called 66
     {
         Default = 0,
 

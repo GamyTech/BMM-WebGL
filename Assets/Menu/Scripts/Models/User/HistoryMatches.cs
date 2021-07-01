@@ -10,6 +10,7 @@ namespace GT.User
 
         public void InitMatches(string currentUserId)
         {
+            Debug.Log("InitMatches " + currentUserId);
             List<FragmentedListDynamicElement> elements = new List<FragmentedListDynamicElement>();
             List<object> matches = LoadSavedElementData();
 

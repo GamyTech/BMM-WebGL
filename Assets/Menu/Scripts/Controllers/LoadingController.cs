@@ -60,12 +60,14 @@ public class LoadingController : MonoBehaviour
 
     public void ShowPageLoading(RectTransform over = null, Action finishedCallback = null)
     {
-        pageLoadingView.ShowLoading(over, finishedCallback);
+        if (pageLoadingView != null)
+            pageLoadingView.ShowLoading(over, finishedCallback);
     }
 
     public void HidePageLoading(Action finishedCallback = null)
     {
-        pageLoadingView.HideLoading(finishedCallback);
+        if (pageLoadingView != null)
+            pageLoadingView.HideLoading(finishedCallback);
     }
 
     public void ShowSceneLoading(Action finishedCallback = null, bool isBlack = false)

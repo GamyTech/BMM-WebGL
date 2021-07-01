@@ -60,6 +60,8 @@ public class UserController : MonoBehaviour
 
     void OnEnable()
     {
+        Debug.Log("UserController OnEnable");
+
         Instance = this;
         WebSocketKit.Instance.OnOpenEvent += WebSocketKit_OnOpenEvent;
         WebSocketKit.Instance.OnCloseEvent += WebSocketKit_OnCloseEvent;
@@ -175,8 +177,7 @@ public class UserController : MonoBehaviour
             PopupController.Instance.ShowSmallPopup("Account Verification", new string[] 
                 { "Your account has been flagged because of unusual activity, confirm your account information to continue" }, 0,
                 new SmallPopupButton[] {
-                    new SmallPopupButton("OK", () =>
-                        { WidgetController.Instance.ShowWidgetPopup(Enums.WidgetId.VerifyUserPopup); }),
+                    new SmallPopupButton("OK", () => { WidgetController.Instance.ShowWidgetPopup(Enums.WidgetId.VerifyUserPopup); }),
                     new SmallPopupButton("Not now")
                 });
             return true;
@@ -190,7 +191,16 @@ public class UserController : MonoBehaviour
     public void InitializeUser()
     {
         string email, pass;
-        if (GetSavedGTUser(out email, out pass))
+
+        if (NetworkController.Instance.IsClientGame())
+        {
+            Debug.Log("InitializeUser");
+            WebSocketKit.Instance.AckEvents[RequestId.Login] += OnAutoSignedIn;
+            WebSocketKit.Instance.SendRequest(RequestId.Login);
+
+            LoadingController.Instance.SetCurrentSceneLoadingProgress(.5f, "Signing In");
+        } 
+        else if (GetSavedGTUser(out email, out pass))
         {
             Debug.Log("email : " + email + " pass : " + pass);
 
@@ -685,6 +695,7 @@ public class UserController : MonoBehaviour
     #region Websocket Events
     private void WebSocketKit_OnOpenEvent()
     {
+        Debug.Log("UserController WebSocketKit_OnOpenEvent");
         InitializeUser();
     }
 
@@ -820,7 +831,6 @@ public class UserController : MonoBehaviour
 
     private void OnAutoSignedIn(Ack ack)
     {
-        WebSocketKit.Instance.AckEvents[RequestId.Login] -= OnAutoSignedIn;
         LoginAck loginAck = ack as LoginAck;
         Debug.Log("OnSignedIn " + loginAck.Code + " " + loginAck.ToString(true));
         switch (loginAck.Code)
@@ -856,7 +866,7 @@ public class UserController : MonoBehaviour
         () => { return AssetController.Instance.Initialized; },
         () => {
             if (!HandelReconnectInLogin(loginAck))
-                SceneController.Instance.ChangeScene(SceneController.SceneName.Menu);
+                SceneController.Instance.ChangeScene(SceneController.SceneName.Menu);//Dima Support
         }));
     }
 }
