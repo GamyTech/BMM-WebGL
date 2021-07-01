@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-using GT.PayPal;
+//using GT.PayPal;
 public class GTPluginBridge : MonoBehaviour {
 
     void OnApplicationPause(bool pauseStatus)
@@ -7,7 +7,7 @@ public class GTPluginBridge : MonoBehaviour {
         if (!pauseStatus)
         {
             #region PushWoosh
-            PushNotificationKit.GetLaunchNotification();
+            //PushNotificationKit.GetLaunchNotification();
             #endregion PushWoosh
         }
     }
@@ -22,7 +22,7 @@ public class GTPluginBridge : MonoBehaviour {
     #region paypal
     public void PayPal_Callback(string msg)
     {
-        PayPalKit.HandlePluginCallback(msg);
+        //PayPalKit.HandlePluginCallback(msg);
     }
     #endregion paypal
 

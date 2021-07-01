@@ -63,13 +63,7 @@ public class LogController : MonoBehaviour
         //}
     }
 
-    private void UploadCallback(CloudResponse response)
-    {
-        //if (response.responseType == ResponseType.OK)
-        //    NetworkController.Instance.sendLog(response.uploadUrl);
-        //else
-        //    Debug.Log(response.rawResponse);
-    }
+
 
     public void SendAndClear()
     {

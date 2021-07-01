@@ -2,7 +2,7 @@
 using UnityEngine;
 using System.Runtime.InteropServices;
 using SFB;
-using UnityToolbag;
+//using UnityToolbag;
 using System.Collections;
 
 public class PhotoPicker
@@ -109,7 +109,7 @@ public class PhotoPicker
         {
             Action<Texture2D> successCallback = t => { SendResult(CameraResultType.Success, null, t); };
             Action<string> errorCallback = e => { SendResult(CameraResultType.Error, e, null); };
-            ContentController.Instance.DownloadPicOrError(url, successCallback, errorCallback);
+            //ContentController.Instance.DownloadPicOrError(url, successCallback, errorCallback);
         }
     }
 
