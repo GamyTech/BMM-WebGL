@@ -183,7 +183,7 @@ namespace GT.Database
 
             if (response.responseCode == GSResponseCode.OK)
                 SaveDetails(response, callback);
-            else
+            else//Dima FIX: Responce gets ok but still goesinto here?
             {
                 Debug.Log("The response from server was not 'OK': " + response.responseCode);
                 Debug.Log(response);

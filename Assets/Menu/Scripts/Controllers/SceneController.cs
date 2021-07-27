@@ -112,6 +112,9 @@ public class SceneController : MonoBehaviour
             case SceneName.Menu:
                 MenuSceneController.InitializeScene();
                 Utils.ChangeOrientation(true);
+#if UNITY_ANDROID
+                Utils.ChangeOrientation(false);
+#endif
                 break;
             case SceneName.Game:
                 GameSceneController.InitializeScene();
