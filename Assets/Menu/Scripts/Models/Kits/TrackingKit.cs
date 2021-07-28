@@ -13,6 +13,7 @@ public class TrackingKit
         PushNotificationKit.Init();
         AppsFlyerKit.InitAppFlyer();
         OpenAppTracker();
+        Debug.Log("<color=blue> InitTracking </color>");
     }
 
     #region Tracking Functions

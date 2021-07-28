@@ -210,7 +210,7 @@ namespace GT.Database
             form.AddField("JSON", AesBase64Wrapper.Encrypt(message));
 
             string link = NetworkController.Instance.GetGlobalServerLink();
-            Debug.Log("Sending CheckAppsFlyer to " + link + " : " + message);
+            Debug.Log("Send to global server to " + link + " : " + message);
             WWW w = new WWW(link, form);
             yield return w;
             if(!string.IsNullOrEmpty(w.error))

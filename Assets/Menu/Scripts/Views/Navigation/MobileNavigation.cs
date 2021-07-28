@@ -196,6 +196,7 @@ public class MobileNavigation : MonoBehaviour
 
     public void TriggerOpen(bool open)
     {
+        Debug.Log("TriggerOpen" + open);
         if (isOpen == open)
             return;
         
@@ -215,6 +216,19 @@ public class MobileNavigation : MonoBehaviour
 
         if (OnNavOpen != null)
             OnNavOpen(isOpen);
+    }
+
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.A))
+        {
+           
+            TriggerOpen(true);
+        }
+        if (Input.GetKeyDown(KeyCode.L))
+        {
+            TriggerOpen(false);
+        }
     }
 
     public void ToggleOpen()
